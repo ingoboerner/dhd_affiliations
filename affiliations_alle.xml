@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <affiliations>
-    <2022>
+    <y2022>
         <affiliation>Austrian Centre for Digital Humanities and Cultural Heritage</affiliation>
         <affiliation>Bayerische Akademie der Wissenschaftten, Germany</affiliation>
         <affiliation>Bayerische Staatsbibliothek, Germany</affiliation>
@@ -100,8 +100,8 @@
         <affiliation>Xorostasi NPCC, Greece</affiliation>
         <affiliation>Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Universität Graz, Österreich</affiliation>
         <affiliation>Lehrstuhl für Medieninformatik, Universität Regensburg, Germany</affiliation>
-    </2022>
-    <2020>
+    </y2022>
+    <y2020>
         <affiliation>Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
         <affiliation>Akademie der Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
         <affiliation>Albert-Ludwigs-Universität Freiburg</affiliation>
@@ -293,8 +293,8 @@
         <affiliation>Zentrum für Philologie und Digitalität „Kallimachos“, Universität Würzburg, Deutschland; Lehrstuhl für Künstliche Intelligenz und Angewandte Informatik, Universität Würzburg, Deutschland</affiliation>
         <affiliation>Zentrum für Philologie und Digitalität „Kallimachos“, Universität Würzburg, Deutschland</affiliation>
         <affiliation>Universität Trier, Deutschland</affiliation>
-    </2020>
-    <2019>
+    </y2020>
+    <y2019>
         <affiliation>Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
         <affiliation>Akademie der Wissenschaften und der Literatur | Mainz</affiliation>
         <affiliation>Akademie der Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
@@ -454,8 +454,8 @@
         <affiliation>Urban Complexity Lab, Fachhochschule Potsdam, Deutschland</affiliation>
         <affiliation>WU Wien</affiliation>
         <affiliation>Akademie der Wissenschaften Mainz - Digitale Akademie, Deutschland</affiliation>
-    </2019>
-    <2018>
+    </y2019>
+    <y2018>
         <affiliation>ACDH, Österreich</affiliation>
         <affiliation>ACDH-ÖAW, Österreichische Akademie der Wissenschaften, Österreich</affiliation>
         <affiliation>Akademie der Wissenschaften und der Literatur | Mainz</affiliation>
@@ -671,8 +671,8 @@
         <affiliation>ZIM-ACDH, Universität Graz, Österreich</affiliation>
         <affiliation>Zürcher Hochschule der Künste, Schweiz</affiliation>
         <affiliation>BBAW, Deutschland</affiliation>
-    </2018>
-    <2017>
+    </y2018>
+    <y2017>
         <affiliation>ACDH-OEAW Austrian Centre for Digital Humanities, Österreichische Akademie der Wissenschaften, Österreich</affiliation>
         <affiliation>Akademie der Wissenschaften und der Literatur Mainz, Deutschland</affiliation>
         <affiliation>Akademie der Wissenschaften und der Literatur, Deutschland</affiliation>
@@ -801,8 +801,8 @@
         <affiliation>ZIM, Universität Graz, Österreich</affiliation>
         <affiliation>ZIM-ACDH Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz, Österreich</affiliation>
         <affiliation>Universität Hamburg, Deutschland</affiliation>
-    </2017>
-    <2016>
+    </y2017>
+    <y2016>
         <affiliation>ACDH, Österreich</affiliation>
         <affiliation>ACDH-OEAW Austrian Center for Digital Humanities, Österreich</affiliation>
         <affiliation>Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
@@ -1022,8 +1022,8 @@
         <affiliation>ZIM Uni Graz, Österreich</affiliation>
         <affiliation>ZIM, Universität Graz, Österreich</affiliation>
         <affiliation>Musikwissenschaftliches Seminar Detmold / Paderborn, Deutschland</affiliation>
-    </2016>
-    <2015>
+    </y2016>
+    <y2015>
         <affiliation/>
         <affiliation>AG Datenzentren im Verband DHd</affiliation>
         <affiliation>Akademie der Wissenschaften und der Literatur Mainz Arbeitsstelle “Mittelhochdeutsches Wörterbuch” an der Universität Trier</affiliation>
@@ -1186,8 +1186,8 @@
         <affiliation>Zentral- und Landesbibliothek Berlin</affiliation>
         <affiliation>Zentrum für Soziale Innovation</affiliation>
         <affiliation>Deutsches Historisches Institut Paris, Frankreich</affiliation>
-    </2015>
-    <2014> 
+    </y2015>
+    <y2014> 
         <affiliation>Akademie der Wisschenschaften zu Göttingen, Germany</affiliation>
         <affiliation>Akademie der Wissenschaften und der Literatur Mainz, Germany</affiliation>
         <affiliation>Akademie der Wissenschaften zu Göttingen, Germany / Göttingen Centre for Digital Humanities</affiliation>
@@ -1337,5 +1337,5 @@
         <affiliation>Zentrum für Technologietransfer und Telekommunikation, FH Worms</affiliation>
         <affiliation>Zentrum Technik und Gesellschaft / TU Berlin, Germany</affiliation>
         <affiliation>Ruhr-Universität-Bochum, Deutschland</affiliation>
-    </2014>
+    </y2014>
 </affiliations>
