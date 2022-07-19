@@ -1117,14 +1117,20 @@
         Humanities</affiliation>
     <affiliation xml:id="d1e1847">Albertina, Austria</affiliation>
     <affiliation xml:id="d1e1849">Albert-Ludwigs-Universität Freiburg, Germany</affiliation>
-    <affiliation xml:id="d1e1851">Arbeitsgemeinschaft Geschichte und EDV e.V, Interdisciplinary Center of
+    <affiliation xml:id="d1e1851">Arbeitsgemeinschaft Geschichte und EDV e.V</affiliation>
+    <affiliation waspartof="#d1e1851" separator=",">Interdisciplinary Center of
         E-Humanities in History and Social Sciences, Institut für Alte Geschichte und Altertumskunde
         – Karl Franzens-Universität Graz</affiliation>
-    <affiliation xml:id="d1e1853">Arbeitsgemeinschaft Geschichte und EDV e.V., FB III - Alte Geschichte, Universität
-        Trier, Interdisciplinary Center of E-Humanities in History and Social Sciences, Historisches
+    <affiliation xml:id="d1e1853">Arbeitsgemeinschaft Geschichte und EDV e.V.</affiliation>
+    <affiliation waspartof="#d1e1853" separator=",">FB III - Alte Geschichte, Universität
+        Trier</affiliation>
+    <affiliation waspartof="#d1e1853" separator=",">Interdisciplinary Center of E-Humanities in History and Social Sciences</affiliation>
+    <affiliation waspartof="#d1e1853" separator=",">Historisches
         Seminar - Lehrstuhl Alte Geschichte, Universität Leipzig</affiliation>
-    <affiliation xml:id="d1e1855">Arbeitsgemeinschaft Geschichte und EDV e.V., FB III - Alte Geschichte, Universität
-        Trier, Interdisciplinary Center of E-Humanities in History and Social Sciences</affiliation>
+    <affiliation xml:id="d1e1855">Arbeitsgemeinschaft Geschichte und EDV e.V.</affiliation>
+    <affiliation waspartof="#d1e1855" separator=",">FB III - Alte Geschichte, Universität
+        Trier</affiliation>
+    <affiliation waspartof="#d1e1855" separator=",">Interdisciplinary Center of E-Humanities in History and Social Sciences</affiliation>
     <affiliation xml:id="d1e1857">Bayerische Staatsbibliothek München, Germany</affiliation>
     <affiliation xml:id="d1e1860">Berlin-Brandenburgische Akademie der Wissenschaften (BBAW), Zentrum Sprache,
         Deutschland</affiliation>
@@ -1228,7 +1234,8 @@
     <affiliation xml:id="d1e2029">Public Research Centre Henri Tudor</affiliation>
     <affiliation xml:id="d1e2031">Rheinische Friedrich-Wilhelms-Universität Bonn, Germany</affiliation>
     <affiliation xml:id="d1e2033">Soziologisches Forschungsinstitut Göttingen, Deutschland</affiliation>
-    <affiliation xml:id="d1e2035">Soziologisches Forschungsinstitut Göttingen, Universität Hamburg, Fachbereich
+    <affiliation xml:id="d1e2035">Soziologisches Forschungsinstitut Göttingen</affiliation>
+    <affiliation waspartof="#d1e2035" separator=",">Universität Hamburg, Fachbereich
         Sozialökonomie, Deutschland</affiliation>
     <affiliation xml:id="d1e2037">Steinheim-Institut für deutsch-jüdische Geschichte, Germany</affiliation>
     <affiliation xml:id="d1e2039">Stiftung Archiv der deutschen Frauenbewegung, Kassel, Deutschland</affiliation>
