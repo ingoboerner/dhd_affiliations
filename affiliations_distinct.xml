@@ -4,7 +4,8 @@
     <affiliation xml:id="d1e7">Bayerische Staatsbibliothek, Germany</affiliation>
     <affiliation xml:id="d1e9">Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
     <affiliation xml:id="d1e11">Computational Humanities Group, Universität Leipzig</affiliation>
-    <affiliation xml:id="d1e14">DARIAH-EU; Higher School of Economics, Moskau</affiliation>
+    <affiliation xml:id="d1e14">DARIAH-EU</affiliation>
+    <affiliation waspartOf="#d1e14">Higher School of Economics, Moskau</affiliation>
     <affiliation xml:id="d1e16">DARIAH-EU</affiliation>
     <affiliation xml:id="d1e18">Data Center for the Humanites (DCH), Universität zu Köln, Deutschland</affiliation>
     <affiliation xml:id="d1e20">Data Center for the Humanities (DCH), Universität zu Köln,
@@ -50,7 +51,8 @@
         Karlsruhe</affiliation>
     <affiliation xml:id="d1e85">Julius-Maximilians-Universität Würzburg</affiliation>
     <affiliation xml:id="d1e87">Karlsruher Institut für Technologie, Germany</affiliation>
-    <affiliation xml:id="d1e89">Københavns Universitet; Technische Universität Berlin</affiliation>
+    <affiliation xml:id="d1e89">Københavns Universitet</affiliation>
+    <affiliation waspartof="#d1e89">Technische Universität Berlin</affiliation>
     <affiliation xml:id="d1e92">Le Mans Université</affiliation>
     <affiliation xml:id="d1e94">Lehrstuhl für Medieninformatik, Universität Regensburg, Germany</affiliation>
     <affiliation xml:id="d1e96">Lehrstuhl für Medieninformatik, Universität Regensburg</affiliation>
@@ -64,8 +66,8 @@
     <affiliation xml:id="d1e111">Ludwig-Maximilians-Universität München, Germany</affiliation>
     <affiliation xml:id="d1e113">Luxembourg Centre for Contemporary and Digital History (C2DH),
         Luxembourg</affiliation>
-    <affiliation xml:id="d1e115">National Research University Higher School of Economics Moscow;
-        DARIAH-EU</affiliation>
+    <affiliation xml:id="d1e115">National Research University Higher School of Economics Moscow</affiliation>
+    <affiliation waspartof="d1e115">DARIAH-EU</affiliation>
     <affiliation xml:id="d1e118">Österreichische Akademie der Wissenschaften, Austria</affiliation>
     <affiliation xml:id="d1e120">Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities
         and Cultural Heritage (ACDH-CH)</affiliation>
@@ -73,9 +75,9 @@
     <affiliation xml:id="d1e124">Ruhr-Universität Bochum, Deutschland</affiliation>
     <affiliation xml:id="d1e126">Ruhr-Universität Bochum, Germany</affiliation>
     <affiliation xml:id="d1e128">Schweizerisches Literaturarchiv</affiliation>
-    <affiliation xml:id="d1e131">Spezielle Botanik und Funktionelle Biodiversität, Universität Leipzig; Deutsches
-        Zentrum für integrative Biodiversitätsforschung (iDiv), Halle-Jena-Leipzig;
-        Max-Planck-Institut für Biogeochemie, Jena</affiliation>
+    <affiliation xml:id="d1e131">Spezielle Botanik und Funktionelle Biodiversität, Universität Leipzig</affiliation>
+    <affiliation waspartof="#d1e131">Deutsches Zentrum für integrative Biodiversitätsforschung (iDiv), Halle-Jena-Leipzig</affiliation>
+    <affiliation waspartof="#d1e131">Max-Planck-Institut für Biogeochemie, Jena</affiliation>
     <affiliation xml:id="d1e133">Spezielle Botanik und Funktionelle Biodiversität, Universität Leipzig</affiliation>
     <affiliation xml:id="d1e135">Spotlight on Innovation (SPOTIN) NPCC, Greece</affiliation>
     <affiliation xml:id="d1e137">Technische Universität Berlin</affiliation>
@@ -125,8 +127,8 @@
     <affiliation xml:id="d1e228">Bayerische Akademie der Wissenschaften, München</affiliation>
     <affiliation xml:id="d1e230">Bayerische Staatsbilbliothek, München</affiliation>
     <affiliation xml:id="d1e232">Bergische Universität Wuppertal, Deutschland</affiliation>
-    <affiliation xml:id="d1e235">Bergische Universität Wuppertal; Herzog August Bibliothek
-        Wolfenbüttel</affiliation>
+    <affiliation xml:id="d1e235">Bergische Universität Wuppertal</affiliation>
+    <affiliation waspartof="#d1e235">Herzog August Bibliothek Wolfenbüttel</affiliation>
     <affiliation xml:id="d1e237">Berlin</affiliation>
     <affiliation xml:id="d1e239">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
     <affiliation xml:id="d1e241">Centre for Contemporary and Digital History (C2DH) Luxembourg
@@ -141,8 +143,8 @@
     <affiliation xml:id="d1e254">Deutsches Dokumentationszentrum für Kunstgeschichte - Bildarchiv Foto Marburg,
         Marburg</affiliation>
     <affiliation xml:id="d1e256">Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI), Berlin</affiliation>
-    <affiliation xml:id="d1e258">DFG Graduierten Kolleg "Modell Romantik"; Jena University Language &amp;
-        Information Engineering Lab (JULIE Lab)</affiliation>
+    <affiliation xml:id="d1e258">DFG Graduierten Kolleg "Modell Romantik"</affiliation>
+    <affiliation waspartof="#d1e258">Jena University Language &amp; Information Engineering Lab (JULIE Lab)</affiliation>
     <affiliation xml:id="d1e261">Ella Media GmbH</affiliation>
     <affiliation xml:id="d1e263">English Department at the University of California, USA</affiliation>
     <affiliation xml:id="d1e265">ETH Zürich, Schweiz</affiliation>
@@ -152,7 +154,8 @@
     <affiliation xml:id="d1e271">Fachhochschule Potsdam</affiliation>
     <affiliation xml:id="d1e274">FAU Erlangen, Deutschland</affiliation>
     <affiliation xml:id="d1e276">FAU Erlangen-Nürnberg, Deutschland</affiliation>
-    <affiliation xml:id="d1e278">FAU Erlangen-Nürnberg, Informatik, Deutschland; Bibliotheca Hertziana, Rom,
+    <affiliation xml:id="d1e278">FAU Erlangen-Nürnberg, Informatik, Deutschland</affiliation>
+    <affiliation waspartof="#d1e278">Bibliotheca Hertziana, Rom,
         Italien</affiliation>
     <affiliation xml:id="d1e280">Folkwang Universität der Künste Essen</affiliation>
     <affiliation xml:id="d1e282">Forschungsverbund Marbach Weimar Wolfenbüttel, Deutschland</affiliation>
@@ -202,7 +205,8 @@
     <affiliation xml:id="d1e360">JMU Würzburg, Deutschland</affiliation>
     <affiliation xml:id="d1e362">Julius-Maximilians-Universität Würzburg, Deutschland</affiliation>
     <affiliation xml:id="d1e365">Karlsruher Institut für Technologie</affiliation>
-    <affiliation xml:id="d1e367">KNAW Huygens ING, Amsterdam; Universität Utrecht</affiliation>
+    <affiliation xml:id="d1e367">KNAW Huygens ING, Amsterdam</affiliation>
+    <affiliation waspartof="#d1e367">Universität Utrecht</affiliation>
     <affiliation xml:id="d1e369">Know-Center Graz, Österreich</affiliation>
     <affiliation xml:id="d1e371">KU Eichstätt - Ingolstadt</affiliation>
     <affiliation xml:id="d1e373">Lehrstuhl Medieninformatik, Universität Regensburg, Deutschland</affiliation>
@@ -217,7 +221,8 @@
     <affiliation xml:id="d1e388">Leipzig</affiliation>
     <affiliation xml:id="d1e391">Leopoldina – Nationale Akademie der Wissenschaften</affiliation>
     <affiliation xml:id="d1e393">Leopoldina, Halle (Saale)</affiliation>
-    <affiliation xml:id="d1e395">Leuphana Universität Lüneburg; Fachhochschule Potsdam, Deutschland</affiliation>
+    <affiliation xml:id="d1e395">Leuphana Universität Lüneburg</affiliation>
+    <affiliation waspartof="#d1e395">Fachhochschule Potsdam, Deutschland</affiliation>
     <affiliation xml:id="d1e397">LMU München, Deutschland</affiliation>
     <affiliation xml:id="d1e399">LMU, München</affiliation>
     <affiliation xml:id="d1e401">Ludwig-Maximilians Universität München</affiliation>
@@ -229,12 +234,14 @@
     <affiliation xml:id="d1e412">Max Weber Stiftung (MWS), Deutschland</affiliation>
     <affiliation xml:id="d1e414">Max Weber Stiftung, Bonn</affiliation>
     <affiliation xml:id="d1e417">Max Weber Stiftung, Deutschland</affiliation>
-    <affiliation xml:id="d1e419">Max Weber Stiftung; Leibniz-Institut für Europäische Geschichte</affiliation>
+    <affiliation xml:id="d1e419">Max Weber Stiftung</affiliation>
+    <affiliation waspartof="#d1e419">Leibniz-Institut für Europäische Geschichte</affiliation>
     <affiliation xml:id="d1e421">MITH, University of Maryland, College Park, MD, USA</affiliation>
     <affiliation xml:id="d1e423">Munich Research</affiliation>
     <affiliation xml:id="d1e425">Österreichische Akademie der Wissenschaften, Austrian Centre for Digital
         Humanities, dataforhistory.org</affiliation>
-    <affiliation xml:id="d1e427">Österreichische Akademie der Wissenschaften, Österreich; CLARIN ERIC</affiliation>
+    <affiliation xml:id="d1e427">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
+    <affiliation waspartof="#d1e427">CLARIN ERIC</affiliation>
     <affiliation xml:id="d1e430">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
     <affiliation xml:id="d1e432">Österreichische Akademie der Wissenschaften</affiliation>
     <affiliation xml:id="d1e434">Österreichische Nationalbibliothek</affiliation>
@@ -256,7 +263,8 @@
     <affiliation xml:id="d1e464">Telota/Berlin-Brandenburgische Akademie der Wissenschaften</affiliation>
     <affiliation xml:id="d1e466">Textloop</affiliation>
     <affiliation xml:id="d1e469">The University of Edinburgh, Law School, Vereinigtes Königreich</affiliation>
-    <affiliation xml:id="d1e471">TU Berlin, Deutschland; Bibliotheca Hertziana, Rom, Italien</affiliation>
+    <affiliation xml:id="d1e471">TU Berlin, Deutschland</affiliation>
+    <affiliation waspartof="#d1e471">Bibliotheca Hertziana, Rom, Italien</affiliation>
     <affiliation xml:id="d1e473">TU Berlin</affiliation>
     <affiliation xml:id="d1e475">TU Darmstadt, Deutschland</affiliation>
     <affiliation xml:id="d1e477">TU Dresden, Deutschland</affiliation>
@@ -275,7 +283,8 @@
     <affiliation xml:id="d1e501">Universität Graz, Österreich</affiliation>
     <affiliation xml:id="d1e503">Universität Greifswald, Deutschland</affiliation>
     <affiliation xml:id="d1e505">Universität Hamburg</affiliation>
-    <affiliation xml:id="d1e508">Universität Heidelberg, Deutschland; Universität Stuttgart</affiliation>
+    <affiliation xml:id="d1e508">Universität Heidelberg, Deutschland</affiliation>
+    <affiliation waspartof="#d1e508">Universität Stuttgart</affiliation>
     <affiliation xml:id="d1e510">Universität Heidelberg, Deutschland</affiliation>
     <affiliation xml:id="d1e512">Universität Innsbruck, Österreich</affiliation>
     <affiliation xml:id="d1e514">Universität Mailand</affiliation>
@@ -287,28 +296,35 @@
     <affiliation xml:id="d1e525">Universität Passau, Deutschland</affiliation>
     <affiliation xml:id="d1e527">Universität Postdam, Deutschland</affiliation>
     <affiliation xml:id="d1e529">Universität Regensburg, Deutschland</affiliation>
-    <affiliation xml:id="d1e531">Universität Sankt Gallen, CH; Universität Passau, Deutschland</affiliation>
+    <affiliation xml:id="d1e531">Universität Sankt Gallen, CH</affiliation>
+    <affiliation waspartof="#d1e531">Universität Passau, Deutschland</affiliation>
     <affiliation xml:id="d1e534">Universität Siegen, Deutschland</affiliation>
-    <affiliation xml:id="d1e536">Universität Stuttgart, Deutschland; Universität Köln, Deutschland</affiliation>
+    <affiliation xml:id="d1e536">Universität Stuttgart, Deutschland</affiliation>
+    <affiliation waspartof="#d1e536">Universität Köln, Deutschland</affiliation>
     <affiliation xml:id="d1e538">Universität Stuttgart, Deutschland</affiliation>
     <affiliation xml:id="d1e540">Universität Stuttgart, Institut für Architektur von Anwendungssystemen
         (IAAS)</affiliation>
-    <affiliation xml:id="d1e542">Universität Stuttgart; Universität zu Köln</affiliation>
+    <affiliation xml:id="d1e542">Universität Stuttgart</affiliation>
+    <affiliation waspartof="#d1e542">Universität zu Köln</affiliation>
     <affiliation xml:id="d1e544">Universität Trier, Deutschland</affiliation>
     <affiliation xml:id="d1e547">Universität Trier, Servicezentrum eSciences, Deutschland</affiliation>
     <affiliation xml:id="d1e549">Universität Wien, Österreich</affiliation>
     <affiliation xml:id="d1e551">Universität Würzburg, Deutschland</affiliation>
     <affiliation xml:id="d1e553">Universität Würzburg</affiliation>
-    <affiliation xml:id="d1e555">Universität zu Köln, Cologne Center for eHumanities (CCeH); Universität zu Köln,
+    <affiliation xml:id="d1e555">Universität zu Köln, Cologne Center for eHumanities (CCeH)</affiliation>
+    <affiliation waspartof="#d1e555">Universität zu Köln,
         Data Center for the Humanities (DCH)</affiliation>
-    <affiliation xml:id="d1e557">Universität zu Köln, Data Center for the Humanities (DCH); Universität zu Köln,
+    <affiliation xml:id="d1e557">Universität zu Köln, Data Center for the Humanities (DCH)</affiliation>
+    <affiliation waspartof="#d1e557">Universität zu Köln,
         Institut für Digital Humanities (IDH)</affiliation>
     <affiliation xml:id="d1e560">Universität zu Köln, Data Center for the Humanities (DCH); Universität zu Köln,
         Institut für Linguistik (IfL)</affiliation>
     <affiliation xml:id="d1e562">Universität zu Köln, Data Center for the Humanities (DCH)</affiliation>
     <affiliation xml:id="d1e564">Universität zu Köln, Institut für Digital Humanities (IDH)</affiliation>
-    <affiliation xml:id="d1e566">Universität zu Köln; Cologne Center for eHumanities</affiliation>
-    <affiliation xml:id="d1e568">Universität zu Köln; Universität Stuttgart</affiliation>
+    <affiliation xml:id="d1e566">Universität zu Köln</affiliation>
+    <affiliation waspartof="#d1e566">Cologne Center for eHumanities</affiliation>
+    <affiliation xml:id="d1e568">Universität zu Köln</affiliation>
+    <affiliation waspartof="#d1e568">Universität Stuttgart</affiliation>
     <affiliation xml:id="d1e570">Universitätsbibliothek Heidelberg, Deutschland</affiliation>
     <affiliation xml:id="d1e573">Université de Tours</affiliation>
     <affiliation xml:id="d1e575">Université Le Mans, Frankreich</affiliation>
@@ -316,11 +332,13 @@
     <affiliation xml:id="d1e579">Westfälische Wilhelms Universität Münster, Deutschland</affiliation>
     <affiliation xml:id="d1e581">Wittgenstein Archiv Universität Bergen/Norwegen</affiliation>
     <affiliation xml:id="d1e583">WU Wien</affiliation>
-    <affiliation xml:id="d1e586">Zentrum für Informationsmodellierung, Universität Graz, Österreich; Austrian Center
+    <affiliation xml:id="d1e586">Zentrum für Informationsmodellierung, Universität Graz, Österreich</affiliation>
+    <affiliation waspartof="#d1e586">Austrian Center
         for Digital Humanities, Österreichische Akademie der Wissenschaften</affiliation>
     <affiliation xml:id="d1e588">Zentrum für Informationsmodellierung, Universität Graz, Österreich</affiliation>
     <affiliation xml:id="d1e590">Zentrum für Philologie und Digitalität „Kallimachos“, Universität Würzburg,
-        Deutschland; Lehrstuhl für Künstliche Intelligenz und Angewandte Informatik, Universität
+        Deutschland</affiliation>
+    <affiliation waspartof="#d1e590">Lehrstuhl für Künstliche Intelligenz und Angewandte Informatik, Universität
         Würzburg, Deutschland</affiliation>
     <affiliation xml:id="d1e592">Zentrum für Philologie und Digitalität „Kallimachos“, Universität Würzburg,
         Deutschland</affiliation>
@@ -330,9 +348,11 @@
     <affiliation xml:id="d1e601">BBAW, Deutschland</affiliation>
     <affiliation xml:id="d1e603">Beethoven-Haus Bonn, Deutschland</affiliation>
     <affiliation xml:id="d1e605">Berlin, Deutschland</affiliation>
-    <affiliation xml:id="d1e607">Bibliotheca Hertziana, Roma, Italien; FAU Erlangen-Nürnberg,
+    <affiliation xml:id="d1e607">Bibliotheca Hertziana, Roma, Italien</affiliation>
+    <affiliation waspartof="#d1e607">FAU Erlangen-Nürnberg,
         Deutschland</affiliation>
-    <affiliation xml:id="d1e609">Bibliotheca Hertziana, Roma, Italien; TU Berlin, Berlin, Deutschland</affiliation>
+    <affiliation xml:id="d1e609">Bibliotheca Hertziana, Roma, Italien</affiliation>
+    <affiliation waspartof="#d1e609">TU Berlin, Berlin, Deutschland</affiliation>
     <affiliation xml:id="d1e612">Center für Digitale Systeme</affiliation>
     <affiliation xml:id="d1e614">Centrum für Religionswissenschaftliche Studien, Ruhr-Universität Bochum,
         Deutschland</affiliation>
@@ -342,7 +362,8 @@
     <affiliation xml:id="d1e620">Citlab, Universität Rostock</affiliation>
     <affiliation xml:id="d1e622">Cologne Center for eHumanities (CCeH), Universität zu Köln,
         Deutschland</affiliation>
-    <affiliation xml:id="d1e625">Cologne Center for eHumanities, Theaterwissenschaftliche Sammlung der Universität
+    <affiliation xml:id="d1e625">Cologne Center for eHumanities</affiliation>
+    <affiliation waspartof="#d1e625">Theaterwissenschaftliche Sammlung der Universität
         zu Köln</affiliation>
     <affiliation xml:id="d1e627">Computer Vision Lab, TU Wien</affiliation>
     <affiliation xml:id="d1e629">Data Center for the Humanities (DCH), Universität zu Köln</affiliation>
@@ -356,7 +377,8 @@
     <affiliation xml:id="d1e646">Electronic Textual Cultures Lab, University of Victoria, Canada</affiliation>
     <affiliation xml:id="d1e648">Forschungsverbund Marbach Weimar Wolfenbüttel / Herzog August Bibliothek
         Wolfenbüttel</affiliation>
-    <affiliation xml:id="d1e651">Forschungsverbund Marbach Weimar Wolfenbüttel, Deutschland; Herzog August
+    <affiliation xml:id="d1e651">Forschungsverbund Marbach Weimar Wolfenbüttel, Deutschland</affiliation>
+    <affiliation waspartof="#d1e651">Herzog August
         Bibliothek Wolfenbüttel</affiliation>
     <affiliation xml:id="d1e653">Forschungsverbund MWW | Herzog August Bibliothek Wolfenbüttel</affiliation>
     <affiliation xml:id="d1e655">Forschungsverbund MWW | Klassik Stiftung Weimar, Deutschland</affiliation>
@@ -371,7 +393,8 @@
     <affiliation xml:id="d1e674">Goethe Universität Frankfurt am Main, Deutschland</affiliation>
     <affiliation xml:id="d1e677">Goethe Universität Frankfurt am Main, Kunstgeschichtliches Institut, Deutschland,
         Deutsches Forum für Kunstgeschichte Paris, Frankreich</affiliation>
-    <affiliation xml:id="d1e679">Goethe Universität Frankfurt am Main, Kunstgeschichtliches Institut, Deutschland;
+    <affiliation xml:id="d1e679">Goethe Universität Frankfurt am Main, Kunstgeschichtliches Institut, Deutschland</affiliation>
+    <affiliation waspartof="#d1e679">
         Deutsches Forum für Kunstgeschichte Paris, Frankreich</affiliation>
     <affiliation xml:id="d1e681">Goethe Universität Frankfurt, Deutschland</affiliation>
     <affiliation xml:id="d1e683">Goethe University of Frankfurt, Deutschland</affiliation>
@@ -383,13 +406,17 @@
     <affiliation xml:id="d1e696">Hochschule Mainz – University of Applied Sciences</affiliation>
     <affiliation xml:id="d1e698">Institut für Deutsche Sprache, Deutschland</affiliation>
     <affiliation xml:id="d1e700">Institut für Deutsche Sprache, Mannheim, Deutschland</affiliation>
-    <affiliation xml:id="d1e703">Institut für Dokumentologie und Editorik (IDE); Berlin-Brandenburgische Akademie
+    <affiliation xml:id="d1e703">Institut für Dokumentologie und Editorik (IDE)</affiliation>
+    <affiliation waspartof="#d1e703">Berlin-Brandenburgische Akademie
         der Wissenschaften</affiliation>
-    <affiliation xml:id="d1e705">Institut für Dokumentologie und Editorik (IDE); Karl-Franzens-Universität
+    <affiliation xml:id="d1e705">Institut für Dokumentologie und Editorik (IDE)</affiliation>
+    <affiliation waspartof="#d1e705">Karl-Franzens-Universität
         Graz</affiliation>
-    <affiliation xml:id="d1e707">Institut für Dokumentologie und Editorik (IDE); Österreichische
+    <affiliation xml:id="d1e707">Institut für Dokumentologie und Editorik (IDE)</affiliation>
+    <affiliation waspartof="#d1e707">Österreichische
         Nationalbibliothek</affiliation>
-    <affiliation xml:id="d1e709">Institut für Dokumentologie und Editorik (IDE); Universität zu Köln</affiliation>
+    <affiliation xml:id="d1e709">Institut für Dokumentologie und Editorik (IDE)</affiliation>
+    <affiliation waspartof="#d1e709">Universität zu Köln</affiliation>
     <affiliation xml:id="d1e711">Institut für Geoinformatik, WWU Münster, Deutschland</affiliation>
     <affiliation xml:id="d1e713">Institut für Linguistik, Universität zu Köln</affiliation>
     <affiliation xml:id="d1e716">Institut für maschinelle Sprachverarbeitung, Universität Stuttgart,
@@ -397,7 +424,8 @@
     <affiliation xml:id="d1e718">Johann Wolfgang Goethe-Universität Frankfurt am Main</affiliation>
     <affiliation xml:id="d1e720">Johannes Gutenberg-Universität Mainz, Deutschland</affiliation>
     <affiliation xml:id="d1e722">Johannes Gutenberg-Universität Mainz</affiliation>
-    <affiliation xml:id="d1e724">Johannes Gutenberg-Universität, Deutschland; Universitätsarchiv Mainz</affiliation>
+    <affiliation xml:id="d1e724">Johannes Gutenberg-Universität, Deutschland</affiliation>
+    <affiliation waspartof="#d1e724">Universitätsarchiv Mainz</affiliation>
     <affiliation xml:id="d1e726">Julius-Maximilians-Universität, Deutschland</affiliation>
     <affiliation xml:id="d1e729">Karl-Franzens-Universität Graz</affiliation>
     <affiliation xml:id="d1e731">Karlsruher Institut für Technologie, Deutschland</affiliation>
@@ -416,7 +444,8 @@
     <affiliation xml:id="d1e755">ÖAW, Wien</affiliation>
     <affiliation xml:id="d1e757">Österreichische Akademie der Wissenschaften, Wien, Österreich</affiliation>
     <affiliation xml:id="d1e759">Rheinische Friedrich-Wilhelms-Universität, Abteilung für Altamerikanistik,
-        Deutschland; La Trobe University, Department of Archaeology and History,
+        Deutschland</affiliation>
+    <affiliation waspartof="#d1e759">La Trobe University, Department of Archaeology and History,
         Australien</affiliation>
     <affiliation xml:id="d1e761">Rheinische Friedrich-Wilhelms-Universität, Abteilung für Altamerikanistik,
         Deutschland</affiliation>
@@ -424,7 +453,8 @@
         Instituts</affiliation>
     <affiliation xml:id="d1e765">Ruprecht-Karls-Universität, Heidelberg</affiliation>
     <affiliation xml:id="d1e768">RWTH Aachen, Deutschland</affiliation>
-    <affiliation xml:id="d1e770">Sächsische Akademie der Wissenschaften zu Leipzig, Deutschland; Universität
+    <affiliation xml:id="d1e770">Sächsische Akademie der Wissenschaften zu Leipzig, Deutschland</affiliation>
+    <affiliation waspartof="#d1e770">Universität
         Leipzig, Deutschland</affiliation>
     <affiliation xml:id="d1e772">Sächsische Akademie der Wissenschaften zu Leipzig, Deutschland</affiliation>
     <affiliation xml:id="d1e774">School of Information Sciences at the University of Illinois at Urbana
@@ -444,7 +474,8 @@
     <affiliation xml:id="d1e800">ULB Darmstadt, Deutschland</affiliation>
     <affiliation xml:id="d1e802">unabhängiger Wissenschaftler</affiliation>
     <affiliation xml:id="d1e804">Università di Bologna, Italien</affiliation>
-    <affiliation xml:id="d1e807">Universität Bern, Schweiz; Cologne Center for eHumanities</affiliation>
+    <affiliation xml:id="d1e807">Universität Bern, Schweiz</affiliation>
+    <affiliation waspartof="#d1e807">Cologne Center for eHumanities</affiliation>
     <affiliation xml:id="d1e809">Universität Bonn, Abteilung für Altamerikanistik, Deutschland</affiliation>
     <affiliation xml:id="d1e811">Universität des Saarlandes, Saarbrücken, Deutschland</affiliation>
     <affiliation xml:id="d1e813">Universität Erlangen</affiliation>
@@ -452,7 +483,8 @@
     <affiliation xml:id="d1e817">Universität Graz</affiliation>
     <affiliation xml:id="d1e820">Universität Heidelberg, Interdisziplinäres Zentrum für wissenschaftliches Rechnen,
         Heidelberg</affiliation>
-    <affiliation xml:id="d1e822">Universität Heidelberg; Universität Stuttgart</affiliation>
+    <affiliation xml:id="d1e822">Universität Heidelberg</affiliation>
+    <affiliation waspartof="#d1e822">Universität Stuttgart</affiliation>
     <affiliation xml:id="d1e824">Universität Hildesheim, Deutschland</affiliation>
     <affiliation xml:id="d1e826">Universität Leipzig</affiliation>
     <affiliation xml:id="d1e828">Universität Luxemburg</affiliation>
@@ -468,7 +500,8 @@
     <affiliation xml:id="d1e850">ACDH, Österreich</affiliation>
     <affiliation xml:id="d1e852">ACDH-ÖAW, Österreichische Akademie der Wissenschaften, Österreich</affiliation>
     <affiliation xml:id="d1e854">Akademie der Wissenschaften und der Literatur Mainz</affiliation>
-    <affiliation xml:id="d1e856">Akademie der Wissenschaften und der Literatur, Mainz; Johann Wolfgang
+    <affiliation xml:id="d1e856">Akademie der Wissenschaften und der Literatur, Mainz</affiliation>
+    <affiliation waspartof="#d1e856">Johann Wolfgang
         Goethe-Universität Frankfurt am Main</affiliation>
     <affiliation xml:id="d1e859">Akademie der Wissenschaften zu Göttingen, Deutschland</affiliation>
     <affiliation xml:id="d1e861">and Service Center for the Humanities DaSCH, Universität Basel (DHLab) und
@@ -487,7 +520,8 @@
     <affiliation xml:id="d1e885">CCeH, Universität Köln, Deutschland</affiliation>
     <affiliation xml:id="d1e887">Centar za digitalne humanističke nauke, Serbien</affiliation>
     <affiliation xml:id="d1e889">Center for Digital Humanities, Universität Trier, Deutschland</affiliation>
-    <affiliation xml:id="d1e891">Center for Informatics Research and Technology (CIRT); Universität
+    <affiliation xml:id="d1e891">Center for Informatics Research and Technology (CIRT)</affiliation>
+    <affiliation waspartof="#d1e891">Universität
         Trier</affiliation>
     <affiliation xml:id="d1e893">Cologne Center for eHumanities</affiliation>
     <affiliation xml:id="d1e895">Consiglio Nazionale delle Ricerche, Italien</affiliation>
@@ -495,7 +529,8 @@
     <affiliation xml:id="d1e900">Deutsches Archäologisches Institut, Deutschland</affiliation>
     <affiliation xml:id="d1e902">DFKI GmbH, Deutschland</affiliation>
     <affiliation xml:id="d1e904">Donau-Universität Krems, Österreich</affiliation>
-    <affiliation xml:id="d1e906">Eberhard Karls Universität Tübingen, Deutschland; Humboldt Universität zu
+    <affiliation xml:id="d1e906">Eberhard Karls Universität Tübingen, Deutschland</affiliation>
+    <affiliation waspartof="#d1e906">Humboldt Universität zu
         Berlin</affiliation>
     <affiliation xml:id="d1e908">Eberhard Karls Universität Tübingen, Deutschland</affiliation>
     <affiliation xml:id="d1e911">Eberhard Karls Universität Tübingen</affiliation>
@@ -504,11 +539,14 @@
     <affiliation xml:id="d1e917">FAU Erlangen-Nürnberg, Deutschland, Germanistik, und TU Darmstadt,
         Computerphilologie und Mediävistik</affiliation>
     <affiliation xml:id="d1e919">FernUniversität in Hagen</affiliation>
-    <affiliation xml:id="d1e921">Forschungsverbund Marbach Weimar Wolfenbüttel; Deutsches Literaturarchiv
+    <affiliation xml:id="d1e921">Forschungsverbund Marbach Weimar Wolfenbüttel</affiliation>
+    <affiliation waspartof="#d1e921">Deutsches Literaturarchiv
         Marbach</affiliation>
-    <affiliation xml:id="d1e924">Forschungsverbund Marbach Weimar Wolfenbüttel; Herzog August Bibliothek
+    <affiliation xml:id="d1e924">Forschungsverbund Marbach Weimar Wolfenbüttel</affiliation>
+    <affiliation waspartof="#d1e924">Herzog August Bibliothek
         Wolfenbüttel</affiliation>
-    <affiliation xml:id="d1e926">Forschungsverbund Marbach Weimar Wolfenbüttel; Klassik Stiftung
+    <affiliation xml:id="d1e926">Forschungsverbund Marbach Weimar Wolfenbüttel</affiliation>
+    <affiliation waspartof="#d1e926">Klassik Stiftung
         Weimar</affiliation>
     <affiliation xml:id="d1e928">Fraunhofer IAIS</affiliation>
     <affiliation xml:id="d1e930">Freie Universität Berlin, Deutschland, Institut für Philosophie</affiliation>
@@ -528,28 +566,36 @@
     <affiliation xml:id="d1e956">Göttingen Centre for Digital Humanities, Georg-August Universität Göttingen,
         Deutschland</affiliation>
     <affiliation xml:id="d1e958">Graduiertenkolleg „Modell Romantik“, Friedrich-Schiller-Universität Jena, Jena,
-        Deutschland; Jena University Language &amp; Information Engineering Lab (JULIE Lab),
+        Deutschland</affiliation>
+    <affiliation waspartof="#d1e958">Jena University Language &amp; Information Engineering Lab (JULIE Lab),
         Friedrich-Schiller-Universität Jena, Jena, Deutschland</affiliation>
     <affiliation xml:id="d1e960">Graduiertenkolleg „Modell Romantik“, Friedrich-Schiller-Universität Jena, Jena,
         Deutschland</affiliation>
-    <affiliation xml:id="d1e963">Herzog August Bibliothek Wolfenbüttel, Deutschland; Forschungsverbund Marbach
+    <affiliation xml:id="d1e963">Herzog August Bibliothek Wolfenbüttel, Deutschland</affiliation>
+    <affiliation waspartof="#d1e963">Forschungsverbund Marbach
         Weimar Wolfenbüttel, Deutschland</affiliation>
     <affiliation xml:id="d1e965">Historisches Datenzentrum Sachsen-Anhalt, Martin-Luther-Universität
         Halle-Wittenberg, Deutschland</affiliation>
     <affiliation xml:id="d1e967">Hochschule für angewandte Wissenschaften, Hamburg</affiliation>
     <affiliation xml:id="d1e969">HU Berlin, Deutschland</affiliation>
-    <affiliation xml:id="d1e971">Humboldt Universität zu Berlin; Eberhard Karls Universität Tübingen</affiliation>
+    <affiliation xml:id="d1e971">Humboldt Universität zu Berlin</affiliation>
+    <affiliation waspartof="#d1e971">Eberhard Karls Universität Tübingen</affiliation>
     <affiliation xml:id="d1e973">Humboldt-Universität, Berlin</affiliation>
     <affiliation xml:id="d1e976">ICARUS, Wien, Österreich</affiliation>
-    <affiliation xml:id="d1e978">IDS Mannheim; Universität Mannheim</affiliation>
-    <affiliation xml:id="d1e980">IDS Mannheim; Universität zu Köln</affiliation>
+    <affiliation xml:id="d1e978">IDS Mannheim</affiliation>
+    <affiliation waspartof="#d1e978">Universität Mannheim</affiliation>
+    <affiliation xml:id="d1e980">IDS Mannheim</affiliation>
+    <affiliation waspartof="#d1e980">Universität zu Köln</affiliation>
     <affiliation xml:id="d1e982">Institut für Deutsche Philologie, Julius-Maximilians-Universität
         Würzburg</affiliation>
     <affiliation xml:id="d1e984">Institut für die Geschichte der deutschen Juden (IGdJ), Deutschland</affiliation>
-    <affiliation xml:id="d1e986">Institut für Dokumentologie und Editorik e.V.; Berlin-Brandenburgische Akademie der
+    <affiliation xml:id="d1e986">Institut für Dokumentologie und Editorik e.V.</affiliation>
+    <affiliation waspartof="#d1e986">Berlin-Brandenburgische Akademie der
         Wissenschaften</affiliation>
-    <affiliation xml:id="d1e989">Institut für Dokumentologie und Editorik e.V.; Universität Würzburg</affiliation>
-    <affiliation xml:id="d1e991">Institut für Dokumentologie und Editorik e.V.; Universität zu
+    <affiliation xml:id="d1e989">Institut für Dokumentologie und Editorik e.V.</affiliation>
+    <affiliation waspartof="#d1e989">Universität Würzburg</affiliation>
+    <affiliation xml:id="d1e991">Institut für Dokumentologie und Editorik e.V.</affiliation>
+    <affiliation waspartof="#d1e991">Universität zu
         Köln/CCeH</affiliation>
     <affiliation xml:id="d1e993">Institut für Europäische Geschichte, Deutschland</affiliation>
     <affiliation xml:id="d1e995">Institut für Germanistik, AAU Klagenfurt</affiliation>
@@ -566,13 +612,17 @@
     <affiliation xml:id="d1e1012">Instituut voor Nederlandse Lexicologie, Niederlande</affiliation>
     <affiliation xml:id="d1e1015">Jena University Language &amp; Information Engineering Lab (JULIE Lab),
         Friedrich-Schiller-Universität Jena, Jena, Deutschland</affiliation>
-    <affiliation xml:id="d1e1017">Johannes Gutenberg-Universität Mainz, Deutschland; Akademie der Wissenschaften und
+    <affiliation xml:id="d1e1017">Johannes Gutenberg-Universität Mainz, Deutschland</affiliation>
+    <affiliation waspartof="#d1e1017">Akademie der Wissenschaften und
         der Literatur Mainz, Deutschland</affiliation>
-    <affiliation xml:id="d1e1019">Johannes Gutenberg-Universität Mainz, Deutschland; Technische Universität
-        Darmstadt, Deutschland; Akademie der Wissenschaften und der Literatur Mainz,
+    <affiliation xml:id="d1e1019">Johannes Gutenberg-Universität Mainz, Deutschland</affiliation>
+    <affiliation waspartof="#d1e1019">Technische Universität
+        Darmstadt, Deutschland</affiliation>
+    <affiliation waspartof="#d1e1019">Akademie der Wissenschaften und der Literatur Mainz,
         Deutschland</affiliation>
     <affiliation xml:id="d1e1021">K Dictionaries Ltd., Israel</affiliation>
-    <affiliation xml:id="d1e1023">Karl-Franzens-Universität Graz; Open Knowledge Forum Österreich</affiliation>
+    <affiliation xml:id="d1e1023">Karl-Franzens-Universität Graz</affiliation>
+    <affiliation waspartof="#d1e1023">Open Knowledge Forum Österreich</affiliation>
     <affiliation xml:id="d1e1025">Kobenhavns Universitet, Dänemark</affiliation>
     <affiliation xml:id="d1e1028">Lehrstuhl für Digital Humanities, Universität Passau, Deutschland</affiliation>
     <affiliation xml:id="d1e1030">Lehrstuhl für Informatik mit Schwerpunkt Digital Libraries and Web Information
@@ -600,7 +650,8 @@
     <affiliation xml:id="d1e1067">OEAW Österreichische Akademie der Wissenschaften, Österreich</affiliation>
     <affiliation xml:id="d1e1069">Otto-Friedrich-Universität Bamberg</affiliation>
     <affiliation xml:id="d1e1071">Real Academia Española; Spanien</affiliation>
-    <affiliation xml:id="d1e1073">Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland; La Trobe University
+    <affiliation xml:id="d1e1073">Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland</affiliation>
+    <affiliation waspartof="#d1e1073">La Trobe University
         Melbourne, Australien</affiliation>
     <affiliation xml:id="d1e1075">Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland</affiliation>
     <affiliation xml:id="d1e1077">Robert-Musil-Institut, AAU Klagenfurt</affiliation>
@@ -619,18 +670,21 @@
         Informationswissenschaften, Fachhochschule Potsdam, Deutschland</affiliation>
     <affiliation xml:id="d1e1099">SUB Göttingen, Deutschland</affiliation>
     <affiliation xml:id="d1e1101">Technische Universität Berlin, Deutschland</affiliation>
-    <affiliation xml:id="d1e1103">Technische Universität Darmstadt, Deutschland; Akademie der Wissenschaften und der
+    <affiliation xml:id="d1e1103">Technische Universität Darmstadt, Deutschland</affiliation>
+    <affiliation waspartof="#d1e1103">Akademie der Wissenschaften und der
         Literatur Mainz, Deutschland</affiliation>
     <affiliation xml:id="d1e1106">Technische Universität Dortmund</affiliation>
     <affiliation xml:id="d1e1108">Technische Universität Dresden, Institut für Philosophie</affiliation>
     <affiliation xml:id="d1e1110">Technische Universität Hamburg</affiliation>
-    <affiliation xml:id="d1e1112">Trier Center for Digital Humanities (TCDH); Universität Trier</affiliation>
+    <affiliation xml:id="d1e1112">Trier Center for Digital Humanities (TCDH)</affiliation>
+    <affiliation waspartof="#d1e1112">Universität Trier</affiliation>
     <affiliation xml:id="d1e1114">UNED, Spanien</affiliation>
     <affiliation xml:id="d1e1116">Universidade Nova de Lisboa, Portugal</affiliation>
     <affiliation xml:id="d1e1119">Università degli Studi di Roma La Spienza, Italien</affiliation>
     <affiliation xml:id="d1e1121">Universität Antwerpen, Belgien</affiliation>
     <affiliation xml:id="d1e1123">Universität Bamberg, Deutschland</affiliation>
-    <affiliation xml:id="d1e1125">Universität Bern, Historisches Institut; Universität zu Köln, Cologne Center for
+    <affiliation xml:id="d1e1125">Universität Bern, Historisches Institut</affiliation>
+    <affiliation waspartof="#d1e1125">Universität zu Köln, Cologne Center for
         eHumanities</affiliation>
     <affiliation xml:id="d1e1127">Universität Bern, Historisches Institut</affiliation>
     <affiliation xml:id="d1e1129">Universität Cambridge, Vereinigtes Königreich</affiliation>
@@ -652,8 +706,12 @@
     <affiliation xml:id="d1e1164">University of Verona, Italy</affiliation>
     <affiliation xml:id="d1e1166">Vienna University of Technology, Computer Vision Lab</affiliation>
     <affiliation xml:id="d1e1168">Wirtschaftsuniversität Wien, Österreich</affiliation>
-    <affiliation xml:id="d1e1171">WWU Münster, Germany; ELDA, France; IDS Mannheim</affiliation>
-    <affiliation xml:id="d1e1173">WWU Münster, Germany; IDS Mannheim; ELDA, France</affiliation>
+    <affiliation xml:id="d1e1171">WWU Münster, Germany</affiliation>
+    <affiliation waspartof="#d1e1171">ELDA, France</affiliation>
+    <affiliation waspartof="#d1e1171">IDS Mannheim</affiliation>
+    <affiliation xml:id="d1e1173">WWU Münster, Germany</affiliation>
+    <affiliation waspartof="#d1e1173">IDS Mannheim</affiliation>
+    <affiliation waspartof="#d1e1173">ELDA, France</affiliation>
     <affiliation xml:id="d1e1175">ZIM-ACDH, Universität Graz, Österreich</affiliation>
     <affiliation xml:id="d1e1177">Zürcher Hochschule der Künste, Schweiz</affiliation>
     <affiliation xml:id="d1e1179">ACDH-OEAW Austrian Centre for Digital Humanities, Österreichische Akademie der
@@ -664,8 +722,10 @@
     <affiliation xml:id="d1e1188">Altorientalische Philologie, Institut für Altertumswissenschaften, Johannes
         Gutenberg-Universität Mainz</affiliation>
     <affiliation xml:id="d1e1190">Archiv des Bistums Passau</affiliation>
-    <affiliation xml:id="d1e1192">Bergische Universität Wuppertal; Universität zu Köln</affiliation>
-    <affiliation xml:id="d1e1194">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland / KU Leuven,
+    <affiliation xml:id="d1e1192">Bergische Universität Wuppertal</affiliation>
+    <affiliation waspartof="#d1e1192">Universität zu Köln</affiliation>
+    <affiliation xml:id="d1e1194">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
+    <affiliation waspartof="#d1e1194" divider=" / ">KU Leuven,
         Belgien</affiliation>
     <affiliation xml:id="d1e1197">Brandenburgische Technische Universität Cottbus-Senftenberg,
         Deutschland</affiliation>
@@ -684,7 +744,8 @@
         Deutschland</affiliation>
     <affiliation xml:id="d1e1218">Forschungsverbund Weimar Marbach Wolfenbüttel</affiliation>
     <affiliation xml:id="d1e1220">Freier Historiker</affiliation>
-    <affiliation xml:id="d1e1223">Germanisches Nationalmuseum, Deutschland; für MUSICES</affiliation>
+    <affiliation xml:id="d1e1223">Germanisches Nationalmuseum, Deutschland</affiliation>
+    <affiliation waspartof="#d1e1223">für MUSICES</affiliation>
     <affiliation xml:id="d1e1225">Gesellschaft für wissenschaftliche Datenverarbeitung mbH, Göttingen</affiliation>
     <affiliation xml:id="d1e1227">Goettingen Center for Digital Humanities</affiliation>
     <affiliation xml:id="d1e1229">Herder Institut Marburg, Deutschland</affiliation>
@@ -743,7 +804,8 @@
     <affiliation xml:id="d1e1322">Universität Bern, Forschungsstelle Jeremias Gotthelf, Schweiz</affiliation>
     <affiliation xml:id="d1e1324">Universität Jena, Deutschland</affiliation>
     <affiliation xml:id="d1e1327">Universität Mannheim, Deutschland</affiliation>
-    <affiliation xml:id="d1e1329">Universität Passau, Deutschland; Reichsuniversität Groningen,
+    <affiliation xml:id="d1e1329">Universität Passau, Deutschland</affiliation>
+    <affiliation waspartof="#d1e1329">Reichsuniversität Groningen,
         Niederlande</affiliation>
     <affiliation xml:id="d1e1331">Universität Passau</affiliation>
     <affiliation xml:id="d1e1333">Universität Salzburg, Österreich</affiliation>
@@ -804,7 +866,8 @@
     <affiliation xml:id="d1e1424">Hochschule Reutlingen, Deutschland</affiliation>
     <affiliation xml:id="d1e1426">Humanities Data Center, Staats- und Universitätsbibliothek Göttingen</affiliation>
     <affiliation xml:id="d1e1428">Humboldt Universität zu Berlin</affiliation>
-    <affiliation xml:id="d1e1431">Humboldt-Universität zu Berlin, Deutschland; Berlin-Brandenburgische Akademie der
+    <affiliation xml:id="d1e1431">Humboldt-Universität zu Berlin, Deutschland</affiliation>
+    <affiliation waspartof="#d1e1431">Berlin-Brandenburgische Akademie der
         Wissenschaften, Deutschland</affiliation>
     <affiliation xml:id="d1e1433">Humboldt-Universität zu Berlin, Institut für Bibliotheks- und
         Informationswissenschaft, Deutschland</affiliation>
@@ -851,7 +914,8 @@
     <affiliation xml:id="d1e1509">Österreichische Akademie der Wissenschaften, ACDH</affiliation>
     <affiliation xml:id="d1e1511">Österreichische Akademie der Wissenschaften, Austrian Centre for Digital
         Humanities; AT</affiliation>
-    <affiliation xml:id="d1e1513">Österreichische Akademie der Wissenschaften, Österreich; Berlin-Branbenburgische
+    <affiliation xml:id="d1e1513">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
+    <affiliation waspartof="#d1e1513">Berlin-Branbenburgische
         Akademie der Wissenschaften, Deutschland</affiliation>
     <affiliation xml:id="d1e1515">pagina GmbH, Deutschland</affiliation>
     <affiliation xml:id="d1e1517">Privatier, Nuernberg (common science)</affiliation>
@@ -986,7 +1050,8 @@
         Geisteswissenschaften</affiliation>
     <affiliation xml:id="d1e1740">Leibniz Universität Hannover, Deutschland</affiliation>
     <affiliation xml:id="d1e1743">Leibniz-Institut für Europäische Geschichte, Deutschland</affiliation>
-    <affiliation xml:id="d1e1745">Ludwig-Maximilans-Universität München; Humboldt-Universität zu Berlin</affiliation>
+    <affiliation xml:id="d1e1745">Ludwig-Maximilans-Universität München</affiliation>
+    <affiliation waspartof="#d1e1745">Humboldt-Universität zu Berlin</affiliation>
     <affiliation xml:id="d1e1747">Max Planck-Institut für Wissenschaftsgeschichte, Berlin</affiliation>
     <affiliation xml:id="d1e1749">Max-Planck-Institut fuer Wissenschaftsgeschichte, Forschungsprogramm Geschichte der
         Max-Planck-Gesellschaft</affiliation>
