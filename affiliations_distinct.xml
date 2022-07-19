@@ -375,16 +375,18 @@
     <affiliation xml:id="d1e642">Digital Humanities Lab, EPF Lausanne</affiliation>
     <affiliation xml:id="d1e644">Donau Universität Krems, Österreich</affiliation>
     <affiliation xml:id="d1e646">Electronic Textual Cultures Lab, University of Victoria, Canada</affiliation>
-    <affiliation xml:id="d1e648">Forschungsverbund Marbach Weimar Wolfenbüttel / Herzog August Bibliothek
+    <affiliation xml:id="d1e648">Forschungsverbund Marbach Weimar Wolfenbüttel</affiliation>
+    <affiliation waspartof="#d1e648">Herzog August Bibliothek
         Wolfenbüttel</affiliation>
     <affiliation xml:id="d1e651">Forschungsverbund Marbach Weimar Wolfenbüttel, Deutschland</affiliation>
-    <affiliation waspartof="#d1e651">Herzog August
+    <affiliation waspartof="#d1e651" separator=" / ">Herzog August
         Bibliothek Wolfenbüttel</affiliation>
     <affiliation xml:id="d1e653">Forschungsverbund MWW | Herzog August Bibliothek Wolfenbüttel</affiliation>
     <affiliation xml:id="d1e655">Forschungsverbund MWW | Klassik Stiftung Weimar, Deutschland</affiliation>
     <affiliation xml:id="d1e657">Forschungsverbund MWW, Deutschland</affiliation>
     <affiliation xml:id="d1e659">Freier Journalist und Informatiker, Berlin</affiliation>
-    <affiliation xml:id="d1e661">Freies Deutsches Hochstift / Frankfurter Goethe-Museum</affiliation>
+    <affiliation xml:id="d1e661">Freies Deutsches Hochstift</affiliation>
+    <affiliation waspartof="#d1e661" separator=" / ">Frankfurter Goethe-Museum</affiliation>
     <affiliation xml:id="d1e664">Friedrich-Alexander-Universität Erlangen-Nürnberg, Deutschland</affiliation>
     <affiliation xml:id="d1e666">GCDH, Universität Göttingen, Deutschland</affiliation>
     <affiliation xml:id="d1e668">Georg-August-Universität Göttingen, Deutschland</affiliation>
@@ -561,7 +563,8 @@
     <affiliation xml:id="d1e945">Germanisches Nationalmuseum, Deutschland</affiliation>
     <affiliation xml:id="d1e947">Germanisches Nationalmuseum, Nürnberg</affiliation>
     <affiliation xml:id="d1e950">Goethe Universität Frankfurt, Germany</affiliation>
-    <affiliation xml:id="d1e952">Goethe-Universität Frankfurt / Freies Deutsches Hochstift</affiliation>
+    <affiliation xml:id="d1e952">Goethe-Universität Frankfurt</affiliation>
+    <affiliation waspartof="#d1e952" separator=" / ">Freies Deutsches Hochstift</affiliation>
     <affiliation xml:id="d1e954">Goethe-Universität Frankfurt</affiliation>
     <affiliation xml:id="d1e956">Göttingen Centre for Digital Humanities, Georg-August Universität Göttingen,
         Deutschland</affiliation>
@@ -725,7 +728,7 @@
     <affiliation xml:id="d1e1192">Bergische Universität Wuppertal</affiliation>
     <affiliation waspartof="#d1e1192">Universität zu Köln</affiliation>
     <affiliation xml:id="d1e1194">Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland</affiliation>
-    <affiliation waspartof="#d1e1194" divider=" / ">KU Leuven,
+    <affiliation waspartof="#d1e1194" separator=" / ">KU Leuven,
         Belgien</affiliation>
     <affiliation xml:id="d1e1197">Brandenburgische Technische Universität Cottbus-Senftenberg,
         Deutschland</affiliation>
@@ -817,7 +820,8 @@
         Humanities, Karl-Franzens-Universität Graz, Österreich</affiliation>
     <affiliation xml:id="d1e1346">ACDH-OEAW Austrian Center for Digital Humanities, Österreich</affiliation>
     <affiliation xml:id="d1e1348">Albert-Ludwigs-Universität Freiburg, Deutschland</affiliation>
-    <affiliation xml:id="d1e1350">Angewandte Medienwissenschaft (Digitale Medien), Universität Bayreuth / bitGilde IT
+    <affiliation xml:id="d1e1350">Angewandte Medienwissenschaft (Digitale Medien), Universität Bayreuth</affiliation>
+    <affiliation waspartof="#d1e1350" separator=" / ">bitGilde IT
         Solutions UG</affiliation>
     <affiliation xml:id="d1e1353">Bayerisches Archiv für Sprachsignale, Institut für Phonetik und Sprachverarbeitung,
         Deutschland</affiliation>
@@ -1032,7 +1036,8 @@
     <affiliation xml:id="d1e1710">Institut für Germanistik, Universität Leipzig</affiliation>
     <affiliation xml:id="d1e1712">Institut für Germanistische Sprachwissenschaft,Friedrich Schiller-Universität
         Jena</affiliation>
-    <affiliation xml:id="d1e1714">Institut für Geschichte, Universität Wien / FH Campus Wien,
+    <affiliation xml:id="d1e1714">Institut für Geschichte, Universität Wien</affiliation>
+    <affiliation waspartof="#d1e1714" separator=" / ">FH Campus Wien,
         Österreich</affiliation>
     <affiliation xml:id="d1e1717">Institut für Informatik, Human-Centered Computing, Freie Universität
         Berlin</affiliation>
@@ -1098,7 +1103,8 @@
     <affiliation xml:id="d1e1821">Universitat Politècnica de València (DSIC)</affiliation>
     <affiliation xml:id="d1e1823">Universität Salamanca</affiliation>
     <affiliation xml:id="d1e1825">Universität Siegen</affiliation>
-    <affiliation xml:id="d1e1827">Universität Trier / Technische Universität Darmstadt, Deutschland</affiliation>
+    <affiliation xml:id="d1e1827">Universität Trier</affiliation>
+    <affiliation waspartof="#d1e1827">Technische Universität Darmstadt, Deutschland</affiliation>
     <affiliation xml:id="d1e1829">Universität Trier</affiliation>
     <affiliation xml:id="d1e1831">Wittgenstein Archives at the University of Bergen (WAB)</affiliation>
     <affiliation xml:id="d1e1834">WU Wien, Österreich</affiliation>
@@ -1106,7 +1112,8 @@
     <affiliation xml:id="d1e1838">Zentrum für Soziale Innovation</affiliation>
     <affiliation xml:id="d1e1840">Akademie der Wisschenschaften zu Göttingen, Germany</affiliation>
     <affiliation xml:id="d1e1842">Akademie der Wissenschaften und der Literatur Mainz, Germany</affiliation>
-    <affiliation xml:id="d1e1844">Akademie der Wissenschaften zu Göttingen, Germany / Göttingen Centre for Digital
+    <affiliation xml:id="d1e1844">Akademie der Wissenschaften zu Göttingen, Germany</affiliation>
+    <affiliation waspartof="#d1e1844">Göttingen Centre for Digital
         Humanities</affiliation>
     <affiliation xml:id="d1e1847">Albertina, Austria</affiliation>
     <affiliation xml:id="d1e1849">Albert-Ludwigs-Universität Freiburg, Germany</affiliation>
@@ -1251,7 +1258,8 @@
     <affiliation xml:id="d1e2085">Universität Würzburg, Germany</affiliation>
     <affiliation xml:id="d1e2087">Universitätsbibliothek Frankfurt am Main, Germany</affiliation>
     <affiliation xml:id="d1e2089">University of Hamburg, Germany</affiliation>
-    <affiliation xml:id="d1e2091">Universtiät Bern / Universität München, Germany</affiliation>
+    <affiliation xml:id="d1e2091">Universtiät Bern</affiliation>
+    <affiliation waspartof="#d1e2091" separator=" / ">Universität München, Germany</affiliation>
     <affiliation xml:id="d1e2094">Wittgenstein-Archiv an der Universität Bergen, Norway</affiliation>
     <affiliation xml:id="d1e2096">Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities,
         Universität Graz, Austria</affiliation>
