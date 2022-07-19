@@ -212,7 +212,8 @@
     <affiliation xml:id="d1e373">Lehrstuhl Medieninformatik, Universität Regensburg, Deutschland</affiliation>
     <affiliation xml:id="d1e375">Leibniz-Institut für Deutsche Sprache, Deutschland</affiliation>
     <affiliation xml:id="d1e378">Leibniz-Institut für Deutsche Sprache, Mannheim</affiliation>
-    <affiliation xml:id="d1e380">Leibniz-Institut für Europäische Geschichte (IEG), Deutschland; Max Weber Stiftung
+    <affiliation xml:id="d1e380">Leibniz-Institut für Europäische Geschichte (IEG), Deutschland</affiliation>
+    <affiliation waspartof="#d1e380">Max Weber Stiftung
         (MWS), Deutschland</affiliation>
     <affiliation xml:id="d1e382">Leibniz-Institut für Europäische Geschichte (IEG), Deutschland</affiliation>
     <affiliation xml:id="d1e384">Leibniz-Institut für Europäische Geschichte, Mainz</affiliation>
@@ -239,7 +240,8 @@
     <affiliation xml:id="d1e421">MITH, University of Maryland, College Park, MD, USA</affiliation>
     <affiliation xml:id="d1e423">Munich Research</affiliation>
     <affiliation xml:id="d1e425">Österreichische Akademie der Wissenschaften, Austrian Centre for Digital
-        Humanities, dataforhistory.org</affiliation>
+        Humanities</affiliation>
+    <affiliation waspartof="#d1e425" separator=",">dataforhistory.org</affiliation>
     <affiliation xml:id="d1e427">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
     <affiliation waspartof="#d1e427">CLARIN ERIC</affiliation>
     <affiliation xml:id="d1e430">Österreichische Akademie der Wissenschaften, Österreich</affiliation>
@@ -269,7 +271,8 @@
     <affiliation xml:id="d1e475">TU Darmstadt, Deutschland</affiliation>
     <affiliation xml:id="d1e477">TU Dresden, Deutschland</affiliation>
     <affiliation xml:id="d1e479">UCLAB, Fachhochschule Potsdam, Deutschland</affiliation>
-    <affiliation xml:id="d1e482">ULB Darmstadt, FH Potsdam</affiliation>
+    <affiliation xml:id="d1e482">ULB Darmstadt</affiliation>
+    <affiliation waspartof="#d1e482" separator=",">FH Potsdam</affiliation>
     <affiliation xml:id="d1e484">Uni Passau, Deutschland</affiliation>
     <affiliation xml:id="d1e486">Univerität Bielefeld - SFB 1288 Praktiken des Vergleichens,
         Deutschland</affiliation>
