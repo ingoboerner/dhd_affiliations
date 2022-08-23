@@ -1,0 +1,979 @@
+orig_string,country,city
+Austrian Centre for Digital Humanities and Cultural Heritage,Österreich,
+"Bayerische Akademie der Wissenschaftten, Germany",Deutschland,
+"Bayerische Staatsbibliothek, Germany",Deutschland,
+Berlin-Brandenburgische Akademie der Wissenschaften,,Berlin
+"Computational Humanities Group, Universität Leipzig",,Leipzig
+DARIAH-EU,,
+"Higher School of Economics, Moskau",,Moskau
+"Data Center for the Humanites (DCH), Universität zu Köln, Deutschland",Deutschland,Köln
+"Data Center for the Humanities (DCH), Universität zu Köln, Deutschland",Deutschland,Köln
+"Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI), Speech and Language Technology Lab",,
+"Deutsches Literaturarchiv Marbach, Germany",Deutschland,
+Deutsches Literaturarchiv Marbach,,
+École polytechnique fédérale de Lausanne ‐ EPFL,,Lausanne
+"Fachhochschule Potsdam, Germany",Deutschland,
+"Fachhochschule Potsdam, UCLAB",,
+"Fernuniversität Hagen, Germany",Deutschland,Hagen
+"FH Potsdam, Deutschland",Deutschland,
+Forschungszentrum Gotha der Universität Erfurt,,
+"Freie Universität Berlin, Germany",Deutschland,Berlin
+Freie Universität Berlin,,Berlin
+Goethe- und Schiller-Archiv Weimar,,
+"Goethe-Universität Frankfurt am Main, Deutschland",Deutschland,Frankfurt
+GWDG Göttingen,,
+"Heidelberg Centre for Transcultural Studies, Universität Heidelberg, Germany",Deutschland,
+"Heinrich-Heine-Universität Düsseldorf, Abteilung Wirtschaftsgeschichte",,
+"Heinrich-Heine-Universität Düsseldorf, Medizinische Fakultät, Institut für Geschichte, Theorie und Ethik der Medizin",,
+"HSE University, Russian Federation",Russland,
+"Humboldt-Universität zu Berlin, Germany",Deutschland,Berlin
+"Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft",,Berlin
+Humboldt-Universität zu Berlin,,Berlin
+Institut für Architektur von Anwendungssystemen (IAAS) - Universität Stuttgart,,
+"Institut für Computerlinguistik, Universität Heidelberg, Germany",Deutschland,
+"Institut für Deutsche Literatur und ihre Didaktik, Universität Frankfurt",,Frankfurt
+"Institut für Deutsche Philologie, JMU Würzburg",,
+"Institut für Deutsche Philologie, Lehrstuhl für Computerphilologie und neuere deutsche Literaturgeschichte, Universität Würzburg",,
+"Institut für Deutsche Philologie, Lehrstuhl für Comuterphilologie und neuere deutsche Literaturgeschichte, Universität Würzburg",,
+Institut für Informatik und digitale Bildung - Pädagogischen Hochschule Karlsruhe,,
+Julius-Maximilians-Universität Würzburg,,
+"Karlsruher Institut für Technologie, Germany",Deutschland,
+Københavns Universitet,,
+Technische Universität Berlin,,Berlin
+Le Mans Université,,
+"Lehrstuhl für Medieninformatik, Universität Regensburg, Germany",Deutschland,
+"Lehrstuhl für Medieninformatik, Universität Regensburg",,
+Leibniz-Institut für Deutsche Sprache,,
+Leibniz-Institut für Europäische Geschichte,,
+"Leipzig Universität, Deutschland",Deutschland,Leipzig
+Literaturarchiv und Literaturmuseum Österreichische Nationalbibliothek,Österreich,
+"LMU München, Germany",Deutschland,
+"Ludwig Forum für Internationale Kunst, Germany",Deutschland,
+"Ludwig-Maximilians-Universität München, Germany",Deutschland,
+"Luxembourg Centre for Contemporary and Digital History (C2DH), Luxembourg",,
+National Research University Higher School of Economics Moscow,,
+"Österreichische Akademie der Wissenschaften, Austria",Österreich,
+"Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH)",Österreich,
+"Rheinische Friedrich-Wilhelms-Universität Bonn, Deutschland",Deutschland,Bonn
+"Ruhr-Universität Bochum, Deutschland",Deutschland,Bochum
+"Ruhr-Universität Bochum, Germany",Deutschland,Bochum
+Schweizerisches Literaturarchiv,Schweiz,
+"Spezielle Botanik und Funktionelle Biodiversität, Universität Leipzig",,Leipzig
+"Deutsches Zentrum für integrative Biodiversitätsforschung (iDiv), Halle-Jena-Leipzig",,Jena
+"Max-Planck-Institut für Biogeochemie, Jena",,Jena
+"Spotlight on Innovation (SPOTIN) NPCC, Greece",Griechenland,
+"Technische Universität Darmstadt, Deutschland",Deutschland,
+"Technische Universität Darmstadt, Germany",Deutschland,
+Technische Universität Darmstadt,,
+"The Open University, United Kingdom",Vereinigtes Königreich,
+"Theodor-Fontane-Archiv, Universität Potsdam",,
+"Thüringer Universitäts- und Landesbibliothek, Germany",Deutschland,
+"TU Darmstadt, Germany",Deutschland,
+"TU Dresden, Germany",Deutschland,
+"UCLAB, Fachhochschule Potsdam, Germany",Deutschland,
+Universität Bamberg,,
+"Universität Bielefeld, Germany",Deutschland,
+Universität Bielefeld,,
+"Universität Graz, Austria",Österreich,Graz
+"Universität Hamburg, Deutschland",Deutschland,Hamburg
+"Universität Hamburg, Germany",Deutschland,Hamburg
+"Universität Köln, Germany",Deutschland,Köln
+"Universität Leipzig, Deutschland",Deutschland,Leipzig
+"Universität Leipzig, Germany",Deutschland,Leipzig
+"Universität Paderborn, Germany",Deutschland,
+"Universität Potsdam, Germany",Deutschland,
+Universität Potsdam,,
+"Universität Rostock, Germany",Deutschland,
+"Universität Stuttgart, Germany",Deutschland,
+"Universität Stuttgart, Institut für maschinelle Sprachverarbeitung",,
+Universität Stuttgart,,
+"Universität Trier, Germany",Deutschland,Trier
+"Universität Tübingen, Germany",Deutschland,
+"Universität zu Köln, Deutschland",Deutschland,Köln
+"Universität zu Köln, Germany",Deutschland,Köln
+"Universitätsbibliothek Braunschweig, Deutschland",Deutschland,
+Universitätsbibliothek Erlangen-Nürnberg,,
+University of Zurich,,Zurich
+"Wienbibliothek im Rathaus, Austria",Österreich,Wien
+"Xorostasi NPCC, Greece",Griechenland,
+"Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Universität Graz, Österreich",Österreich,Graz
+"Akademie der Wissenschaften und der Literatur | Mainz, Deutschland",Deutschland,Mainz
+"Akademie der Wissenschaften und der Literatur Mainz, Deutschland",Deutschland,Mainz
+Albert-Ludwigs-Universität Freiburg,,Freiburg
+"Austrian Academy of Sciences, Österreich",Österreich,
+"Austrian Center for Digital Humanities, Österreichische Akademie der Wissenschaften",Österreich,
+"Bayerische Akademie der Wissenschaften, Deutschland",Deutschland,
+"Bayerische Akademie der Wissenschaften, München",,
+"Bayerische Staatsbilbliothek, München",,
+"Bergische Universität Wuppertal, Deutschland",Deutschland,
+Bergische Universität Wuppertal,,
+Herzog August Bibliothek Wolfenbüttel,,
+Berlin,,Berlin
+"Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland",Deutschland,Berlin
+Centre for Contemporary and Digital History (C2DH) Luxembourg University,,
+"College of Engineering, Trivandrum, Indien",Indien,
+"College of Social Sciences and Humanities at the Northeastern University, USA",,
+"Deutsche Nationalbibliothek Arbeitsstelle für Standardisierung, Leipzig",,Leipzig
+"Deutsche Nationalbibliothek, Deutschland",Deutschland,
+Deutsche Nationalbibliothek,,
+"Deutsches Dokumentationszentrum für Kunstgeschichte - Bildarchiv Foto Marburg, Marburg",,
+"Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI), Berlin",,Berlin
+"DFG Graduierten Kolleg ""Modell Romantik""",,Roma
+Jena University Language & Information Engineering Lab (JULIE Lab),,Jena
+Ella Media GmbH,,
+"English Department at the University of California, USA",,
+"ETH Zürich, Schweiz",Schweiz,
+"Fachhochschule Potsdam, Deutschland",Deutschland,
+"Fachhochschule Potsdam, Fachbereich Informationswissenschaften, RDMO, Deutschland",Deutschland,
+Fachhochschule Potsdam,,
+"FAU Erlangen, Deutschland",Deutschland,
+"FAU Erlangen-Nürnberg, Deutschland",Deutschland,
+"FAU Erlangen-Nürnberg, Informatik, Deutschland",Deutschland,
+"Bibliotheca Hertziana, Rom, Italien",Italien,Rom
+Folkwang Universität der Künste Essen,,
+"Forschungsverbund Marbach Weimar Wolfenbüttel, Deutschland",Deutschland,
+"Forschungsverbund MWW, Herzog August Bibliothek Wolfenbüttel, Deutschland",Deutschland,
+"Freie Universität Berlin, Deutschland",Deutschland,Berlin
+Friedrich-Alexander-Universität Erlangen-Nürnberg,,
+"Friedrich-Schiller-Universität Jena, Deutschland",Deutschland,Jena
+"Georg-August Universität Göttingen, Deutschland",Deutschland,
+"Georg-Eckert-Institut - Leibniz-Institut für internationale Schulbuchforschung, Deutschland",Deutschland,
+GrazMuseum,,Graz
+Hamburg,,Hamburg
+Heinrich-Heine-Universität Düsseldorf,,
+"Herzog August Bibliothek Wolfenbüttel, Deutschland",Deutschland,
+"Herzog-August-Bibliothek Wolfenbüttel, Deutschland",Deutschland,
+"Higher School of Economics Moskau, Russland",Russland,Moskau
+"Higher School of Economics, Moskau, Russland",Russland,Moskau
+"Historische Kommission bei der Bayerischen Akademie der Wissenschaften, Deutschland",Deutschland,
+"Hochschule Darmstadt, Fachbereich Media, HeFDI, Deutschland",Deutschland,
+Hochschule für Angewandte Wissenschaften Hamburg,,Hamburg
+"Hochschule für Jüdische Studien Heidelberg, Deutschland",Deutschland,
+"Hochschule Luzern, Schweiz",Schweiz,
+"Hochschule Mainz, Deutschland",Deutschland,Mainz
+Höchstleistungsrechenzentrum Stuttgart,,
+"HS Mainz, Deutschland",Deutschland,Mainz
+"HSE University, Russland",Russland,
+"HTWK Leipzig, Deutschland",Deutschland,Leipzig
+HTWK Leipzig,,Leipzig
+Humboldt Universität Berlin,,Berlin
+"Humboldt-Universität zu Berlin, Deutschland",Deutschland,Berlin
+"Institut für Digital Humanities, Universität zu Köln, Deutschland",Deutschland,Köln
+"Institut für Kunstgeschichte, Ludwig-Maximilians-Universität München, Deutschland",Deutschland,
+Institut für Literaturwissenschaft / Digital Humanities der Universität Stuttgart,,
+Institut für maschinelle Sprachverarbeitung der Universität Stuttgart,,
+"Interdisziplinäres Zentrum für Mittelalter und Frühneuzeit, Universität Salzburg",,Salzburg
+"IT-Gruppe Geisteswissenschaften, Ludwig-Maximilians-Universität München, Deutschland",Deutschland,
+"IZdigital, Friedrich-Alexander-Universität Erlangen-Nürnberg",,
+Jena University Language & Information Engineering Lab (JULIE Lab),,Jena
+"JGU Mainz, Deutschland",Deutschland,Mainz
+"JMU Würzburg, Deutschland",Deutschland,
+"Julius-Maximilians-Universität Würzburg, Deutschland",Deutschland,
+Karlsruher Institut für Technologie,,
+"KNAW Huygens ING, Amsterdam",,Amsterdam
+Universität Utrecht,,
+"Know-Center Graz, Österreich",Österreich,Graz
+KU Eichstätt - Ingolstadt,,
+"Lehrstuhl Medieninformatik, Universität Regensburg, Deutschland",Deutschland,
+"Leibniz-Institut für Deutsche Sprache, Deutschland",Deutschland,
+"Leibniz-Institut für Deutsche Sprache, Mannheim",,Mannheim
+"Leibniz-Institut für Europäische Geschichte (IEG), Deutschland",Deutschland,
+"Max Weber Stiftung (MWS), Deutschland",Deutschland,
+"Leibniz-Institut für Europäische Geschichte, Mainz",,Mainz
+"Leibniz-Institut für Geschichte und Kultur des östlichen Europa (GWZO), Deutschland",Deutschland,
+Leipzig,,Leipzig
+Leopoldina – Nationale Akademie der Wissenschaften,,
+"Leopoldina, Halle (Saale)",,Halle
+Leuphana Universität Lüneburg,,
+"LMU München, Deutschland",Deutschland,
+"LMU, München",,
+Ludwig-Maximilians Universität München,,
+"Ludwig-Maximilians-Universität München, Deutschland",Deutschland,
+"Mainzer Zentrum für Digitalität in den Geistes- und Kulturwissenschaften, Deutschland",Deutschland,Mainz
+"Martin-Luther-Universität Halle-Wittenberg, Deutschland",Deutschland,Halle
+Martin-Luther-Universität Halle-Wittenberg,,Halle
+"Max Weber Stiftung (MWS), Deutschland",Deutschland,
+"Max Weber Stiftung, Bonn",,Bonn
+"Max Weber Stiftung, Deutschland",Deutschland,
+Max Weber Stiftung,,
+"MITH, University of Maryland, College Park, MD, USA",,
+Munich Research,,
+"Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities",Österreich,
+dataforhistory.org,,
+"Österreichische Akademie der Wissenschaften, Österreich",Österreich,
+CLARIN ERIC,,
+Österreichische Akademie der Wissenschaften,Österreich,
+Österreichische Nationalbibliothek,Österreich,
+"Otto-Friedrich-Universität Bamberg, Deutschland",Deutschland,
+"Pedagogical University of Kraków, Polen",,Kraków
+"Philipps-Universität Marburg, Deutschland",Deutschland,
+"Philipps-Universität Marburg, Marburg Center for Digital Culture & Infrastructure (MCDCI), Deutschland",Deutschland,
+Ruhr-Universität Bochum,,Bochum
+Sächsische Akademie der Wissenschaften zu Leipzig,,Leipzig
+"Staats- und Universitätsbibliothek Dresden, Deutschland",Deutschland,
+Staatsbibliothek Berlin,,Berlin
+"Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Deutschland",Deutschland,Berlin
+Stadtarchiv Graz,,Graz
+Steinheim-Institut,,
+"Technische Hochschule Georg Simon Ohm, Kesslerplatz 12, 90489 Nürnberg, Deutschland",Deutschland,
+"Technische Universität Graz, Österreich",Österreich,Graz
+Telota/Berlin-Brandenburgische Akademie der Wissenschaften,,Berlin
+Textloop,,
+"The University of Edinburgh, Law School, Vereinigtes Königreich",Vereinigtes Königreich,Edinburgh
+"TU Berlin, Deutschland",Deutschland,Berlin
+"Bibliotheca Hertziana, Rom, Italien",Italien,Rom
+TU Berlin,,Berlin
+"TU Darmstadt, Deutschland",Deutschland,
+"TU Dresden, Deutschland",Deutschland,
+"UCLAB, Fachhochschule Potsdam, Deutschland",Deutschland,
+ULB Darmstadt,,
+FH Potsdam,,
+"Uni Passau, Deutschland",Deutschland,Passau
+"Univerität Bielefeld - SFB 1288 Praktiken des Vergleichens, Deutschland",Deutschland,
+"Universität Basel, Schweiz",Schweiz,Basel
+"Universität Bern, Schweiz",Schweiz,Bern
+"Universität Bielefeld, Deutschland",Deutschland,
+"Universität des Saarlandes, Lehrstuhl für Neuere deutsche Literaturwissenschaft | Medienwissenschaft, Saarbrücken, Deutschland",Deutschland,Saarbrücken
+"Universität Duisburg-Essen, Deutschland",Deutschland,
+Universität Erfurt,,
+"Universität Graz, Österreich",Österreich,Graz
+"Universität Greifswald, Deutschland",Deutschland,
+Universität Hamburg,,Hamburg
+"Universität Heidelberg, Deutschland",Deutschland,
+"Universität Innsbruck, Österreich",Österreich,
+Universität Mailand,,
+"Universität Münster, Deutschland",Deutschland,
+"Universität Paderborn, Deutschland",Deutschland,
+"Universität Paderborn, Musikwissenschaftliches Seminar Detmold/Paderborn, Deutschland",Deutschland,
+Universität Paderborn,,
+"Universität Passau, Deutschland",Deutschland,Passau
+"Universität Postdam, Deutschland",Deutschland,
+"Universität Regensburg, Deutschland",Deutschland,
+"Universität Sankt Gallen, CH",,
+"Universität Siegen, Deutschland",Deutschland,
+"Universität Stuttgart, Deutschland",Deutschland,
+"Universität Köln, Deutschland",Deutschland,Köln
+"Universität Stuttgart, Institut für Architektur von Anwendungssystemen (IAAS)",,
+Universität zu Köln,,Köln
+"Universität Trier, Deutschland",Deutschland,Trier
+"Universität Trier, Servicezentrum eSciences, Deutschland",Deutschland,Trier
+"Universität Wien, Österreich",Österreich,Wien
+"Universität Würzburg, Deutschland",Deutschland,
+Universität Würzburg,,
+"Universität zu Köln, Cologne Center for eHumanities (CCeH)",,Köln
+"Universität zu Köln, Data Center for the Humanities (DCH)",,Köln
+"Universität zu Köln, Data Center for the Humanities (DCH)",,Köln
+"Universität zu Köln, Institut für Digital Humanities (IDH)",,Köln
+"Universität zu Köln, Data Center for the Humanities (DCH); Universität zu Köln, Institut für Linguistik (IfL)",,Köln
+"Universität zu Köln, Institut für Digital Humanities (IDH)",,Köln
+Cologne Center for eHumanities,,
+"Universitätsbibliothek Heidelberg, Deutschland",Deutschland,
+Université de Tours,,
+"Université Le Mans, Frankreich",Frankreich,
+"University of Hamburg, Deutschland",Deutschland,Hamburg
+"Westfälische Wilhelms Universität Münster, Deutschland",Deutschland,
+Wittgenstein Archiv Universität Bergen/Norwegen,Norwegen,Bergen
+WU Wien,,Wien
+"Zentrum für Informationsmodellierung, Universität Graz, Österreich",Österreich,Graz
+"Austrian Center for Digital Humanities, Österreichische Akademie der Wissenschaften",Österreich,
+"Zentrum für Philologie und Digitalität „Kallimachos“, Universität Würzburg, Deutschland",Deutschland,
+"Lehrstuhl für Künstliche Intelligenz und Angewandte Informatik, Universität Würzburg, Deutschland",Deutschland,
+Akademie der Wissenschaften und der Literatur | Mainz,,Mainz
+"Akademie der Wissenschaften und der Literatur, Mainz",,Mainz
+"Akademie der Wissenschaften und Literatur | Mainz, Deutschland",Deutschland,Mainz
+"BBAW, Deutschland",Deutschland,
+"Beethoven-Haus Bonn, Deutschland",Deutschland,Bonn
+"Berlin, Deutschland",Deutschland,Berlin
+"Bibliotheca Hertziana, Roma, Italien",Italien,Roma
+"FAU Erlangen-Nürnberg, Deutschland",Deutschland,
+"TU Berlin, Berlin, Deutschland",Deutschland,Berlin
+Center für Digitale Systeme,,
+"Centrum für Religionswissenschaftliche Studien, Ruhr-Universität Bochum, Deutschland",Deutschland,Bochum
+"Chair of Applied Computer Science and Artificial Intelligence, Universität Würzburg, Deutschland",Deutschland,
+"Chair of Literary Computing, Universität Würzburg, Deutschland",Deutschland,
+"Citlab, Universität Rostock",,
+"Cologne Center for eHumanities (CCeH), Universität zu Köln, Deutschland",Deutschland,Köln
+Theaterwissenschaftliche Sammlung der Universität zu Köln,,Köln
+"Computer Vision Lab, TU Wien",,Wien
+"Data Center for the Humanities (DCH), Universität zu Köln",,Köln
+"Data Center for the Humanities, Universität zu Köln, Deutschland",Deutschland,Köln
+"Data Center for the Humanities, Universität zu Köln",,Köln
+"Deutsche Nationalbibliothek, Frankfurt a.M.",,Frankfurt
+"Deutsches Historisches Institut Paris, Frankreich",Frankreich,Paris
+"Deutsches Museum, Deutschland",Deutschland,
+"Digital Humanities Lab, EPF Lausanne",,Lausanne
+"Donau Universität Krems, Österreich",Österreich,
+"Electronic Textual Cultures Lab, University of Victoria, Canada",Kanada,Victoria
+Forschungsverbund Marbach Weimar Wolfenbüttel,,
+Herzog August Bibliothek Wolfenbüttel,,
+Herzog August Bibliothek Wolfenbüttel,,
+Forschungsverbund MWW | Herzog August Bibliothek Wolfenbüttel,,
+"Forschungsverbund MWW | Klassik Stiftung Weimar, Deutschland",Deutschland,
+"Forschungsverbund MWW, Deutschland",Deutschland,
+"Freier Journalist und Informatiker, Berlin",,Berlin
+Freies Deutsches Hochstift,,
+Frankfurter Goethe-Museum,,Frankfurt
+"Friedrich-Alexander-Universität Erlangen-Nürnberg, Deutschland",Deutschland,
+"GCDH, Universität Göttingen, Deutschland",Deutschland,
+"Georg-August-Universität Göttingen, Deutschland",Deutschland,
+"Germanisches Nationalmuseum Nürnberg, Deutschland",Deutschland,
+Germanisches Nationalmuseum,,
+"Goethe Universität Frankfurt am Main, Deutschland",Deutschland,Frankfurt
+"Goethe Universität Frankfurt am Main, Kunstgeschichtliches Institut, Deutschland, Deutsches Forum für Kunstgeschichte Paris, Frankreich",Deutschland,Paris
+"Goethe Universität Frankfurt am Main, Kunstgeschichtliches Institut, Deutschland",Deutschland,Frankfurt
+"Deutsches Forum für Kunstgeschichte Paris, Frankreich",Frankreich,Paris
+"Goethe Universität Frankfurt, Deutschland",Deutschland,Frankfurt
+"Goethe University of Frankfurt, Deutschland",Deutschland,Frankfurt
+"Goethe-Universität Frankfurt, Deutschland",Deutschland,Frankfurt
+"Hamburger Zentrum für Sprachkorpora, Universität Hamburg, Deutschland",Deutschland,Hamburg
+"Hochschule Mainz - University of Applied Sciences, Deutschland",Deutschland,Mainz
+"Hochschule Mainz – University of Applied Sciences, Deutschland",Deutschland,Mainz
+Hochschule Mainz – University of Applied Sciences,,Mainz
+"Institut für Deutsche Sprache, Deutschland",Deutschland,
+"Institut für Deutsche Sprache, Mannheim, Deutschland",Deutschland,Mannheim
+Institut für Dokumentologie und Editorik (IDE),,
+Berlin-Brandenburgische Akademie der Wissenschaften,,Berlin
+Karl-Franzens-Universität Graz,,Graz
+Österreichische Nationalbibliothek,Österreich,
+"Institut für Geoinformatik, WWU Münster, Deutschland",Deutschland,
+"Institut für Linguistik, Universität zu Köln",,Köln
+"Institut für maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland",Deutschland,
+Johann Wolfgang Goethe-Universität Frankfurt am Main,,Frankfurt
+"Johannes Gutenberg-Universität Mainz, Deutschland",Deutschland,Mainz
+Johannes Gutenberg-Universität Mainz,,Mainz
+"Johannes Gutenberg-Universität, Deutschland",Deutschland,
+Universitätsarchiv Mainz,,Mainz
+"Julius-Maximilians-Universität, Deutschland",Deutschland,
+Karl-Franzens-Universität Graz,,Graz
+"Karlsruher Institut für Technologie, Deutschland",Deutschland,
+"Landesarchiv Baden-Württemberg, Deutschland",Deutschland,
+"Language Technology Group, Universität Hamburg, Deutschland",Deutschland,Hamburg
+"Le Mans Université, Frankreich",Frankreich,
+"Max-Planck-Institut für europäische Rechtsgeschichte, Deutschland",Deutschland,
+"MLU Halle/Wittenberg, Deutschland",Deutschland,Halle
+"Nasjonalbiblioteket, Oslo, Norwegen",Norwegen,Oslo
+"Niedersächsische Staats- und Universitätsbibliothek Göttingen, Deutschland",Deutschland,
+Niedersächsische Staats- und Universitätsbibliothek Göttingen,,
+"Niedersächsische Staats- und Universitätsbibliothek, Göttingen, Deutschland",Deutschland,
+"ÖAW, Wien",,Wien
+"Österreichische Akademie der Wissenschaften, Wien, Österreich",Österreich,Wien
+"Rheinische Friedrich-Wilhelms-Universität, Abteilung für Altamerikanistik, Deutschland",Deutschland,
+"La Trobe University, Department of Archaeology and History, Australien",Australien,
+Römisch-Germanische Kommission des Deutschen Archäologischen Instituts,,
+"Ruprecht-Karls-Universität, Heidelberg",,
+"RWTH Aachen, Deutschland",Deutschland,
+"Sächsische Akademie der Wissenschaften zu Leipzig, Deutschland",Deutschland,Leipzig
+"Universität Leipzig, Deutschland",Deutschland,Leipzig
+School of Information Sciences at the University of Illinois at Urbana Champaign,,Illinois
+"Sprache und Raum Laboratorium, Universität Zürich, Schweiz",Schweiz,
+"Staatsarchiv des Kantons Zürich, Schweiz",Schweiz,
+Steinbuch Centre for Computing / KIT,,
+"Steinheim-Institut, Deutschland",Deutschland,
+"Stiftung Preußischer Kulturbesitz, Berlin",,Berlin
+"Stiftung Preußischer Kulturbesitz, Deutschland",Deutschland,
+Stiftung Preußischer Kulturbesitz,,
+"Studienzentrum der Leopoldina / Nationale Akademie der Wissenschaften, Deutschland",Deutschland,
+"Technische Universität Dresden, Deutschland",Deutschland,
+"Technische Universität Hamburg, Deutschland",Deutschland,Hamburg
+"Theodor-Fontane-Archiv, Universität Potsdam, Deutschland",Deutschland,
+"ULB Darmstadt, Deutschland",Deutschland,
+unabhängiger Wissenschaftler,,
+"Università di Bologna, Italien",Italien,
+"Universität Bonn, Abteilung für Altamerikanistik, Deutschland",Deutschland,Bonn
+"Universität des Saarlandes, Saarbrücken, Deutschland",Deutschland,Saarbrücken
+Universität Erlangen,,
+"Universität Göttingen, Deutschland",Deutschland,
+Universität Graz,,Graz
+"Universität Heidelberg, Interdisziplinäres Zentrum für wissenschaftliches Rechnen, Heidelberg",,
+Universität Heidelberg,,
+"Universität Hildesheim, Deutschland",Deutschland,
+Universität Leipzig,,Leipzig
+Universität Luxemburg,,
+"Universität Osnabrück, Deutschland",Deutschland,
+"Universität Potsdam, Deutschland",Deutschland,
+"Universität St. Gallen, Schweiz",Schweiz,
+Universität Wien,,Wien
+"Universität Zürich, Schweiz",Schweiz,
+"Universitätsbibliothek Leipzig, Deutschland",Deutschland,Leipzig
+University of Appliend Sciences Potsdam,,
+"Urban Complexity Lab, Fachhochschule Potsdam, Deutschland",Deutschland,
+"Akademie der Wissenschaften Mainz - Digitale Akademie, Deutschland",Deutschland,Mainz
+"ACDH, Österreich",Österreich,
+"ACDH-ÖAW, Österreichische Akademie der Wissenschaften, Österreich",Österreich,
+Akademie der Wissenschaften und der Literatur Mainz,,Mainz
+Johann Wolfgang Goethe-Universität Frankfurt am Main,,Frankfurt
+"Akademie der Wissenschaften zu Göttingen, Deutschland",Deutschland,
+"and Service Center for the Humanities DaSCH, Universität Basel (DHLab) und Schweizerische Akademie der Geistes- und Sozialwissenschaften, Schweiz",Schweiz,Basel
+"Austrian Center for Digital Humanities, Österreichische Akademie der Wissenschaften, Österreich",Österreich,
+"Bach-Archiv Leipzig, Deutschland",Deutschland,Leipzig
+"Berlin-Brandenburgische Akademie der Wisesnschaften, Deutschland",Deutschland,Berlin
+Beste Worte GmbH,,
+"Birkbeck, University of Lonfon",,Lonfon
+"bitGilde IT Solutions UG, Deutschland",Deutschland,
+"Black Mesa Technologies LLC, New Mexico",,New Mexico
+"Brandenburgisches Zentrum für Medienwissenschaften, Potsdam",,
+"Buchbinderei Mohr, Trier, Deutschland",Deutschland,Trier
+"CCeH, Universität Köln, Deutschland",Deutschland,Köln
+"Centar za digitalne humanističke nauke, Serbien",Serbien,
+"Center for Digital Humanities, Universität Trier, Deutschland",Deutschland,Trier
+Center for Informatics Research and Technology (CIRT),,
+Universität Trier,,Trier
+"Consiglio Nazionale delle Ricerche, Italien",Italien,
+"Det Danske Sprog- og Litteraturselskab, Dänmark",,
+"Deutsches Archäologisches Institut, Deutschland",Deutschland,
+"DFKI GmbH, Deutschland",Deutschland,
+"Donau-Universität Krems, Österreich",Österreich,
+"Eberhard Karls Universität Tübingen, Deutschland",Deutschland,
+Humboldt Universität zu Berlin,,Berlin
+Eberhard Karls Universität Tübingen,,
+"Eesti Keele Instituut, Estland",Estland,
+Fachhochschule St. Pölten,,
+"FAU Erlangen-Nürnberg, Deutschland, Germanistik, und TU Darmstadt, Computerphilologie und Mediävistik",Deutschland,
+FernUniversität in Hagen,,Hagen
+Deutsches Literaturarchiv Marbach,,
+Klassik Stiftung Weimar,,
+Fraunhofer IAIS,,
+"Freie Universität Berlin, Deutschland, Institut für Philosophie",Deutschland,Berlin
+"Friedrich-Alexander Universität Erlangen-Nürnberg, Deutschland",Deutschland,
+"FSU Jena, Deutschland",Deutschland,Jena
+"Georg-August-Universität Göttingen, Deutschland - GCDH/Archäologisches Institut",Deutschland,
+Georg-August-Universität Göttingen,,
+Georg-Eckert-Institut – Leibniz-Institut für internationale Schulbuchforschung (GEI),,
+German Historical Institute Washington,,
+"Germanisches Nationalmuseum, Deutschland",Deutschland,
+"Germanisches Nationalmuseum, Nürnberg",,
+"Goethe Universität Frankfurt, Germany",Deutschland,Frankfurt
+Goethe-Universität Frankfurt,,Frankfurt
+"Göttingen Centre for Digital Humanities, Georg-August Universität Göttingen, Deutschland",Deutschland,
+"Graduiertenkolleg „Modell Romantik“, Friedrich-Schiller-Universität Jena, Jena, Deutschland",Deutschland,Jena
+"Jena University Language & Information Engineering Lab (JULIE Lab), Friedrich-Schiller-Universität Jena, Jena, Deutschland",Deutschland,Jena
+"Forschungsverbund Marbach Weimar Wolfenbüttel, Deutschland",Deutschland,
+"Historisches Datenzentrum Sachsen-Anhalt, Martin-Luther-Universität Halle-Wittenberg, Deutschland",Deutschland,Halle
+"Hochschule für angewandte Wissenschaften, Hamburg",,Hamburg
+"HU Berlin, Deutschland",Deutschland,Berlin
+Humboldt Universität zu Berlin,,Berlin
+"Humboldt-Universität, Berlin",,Berlin
+"ICARUS, Wien, Österreich",Österreich,Wien
+IDS Mannheim,,Mannheim
+Universität Mannheim,,Mannheim
+"Institut für Deutsche Philologie, Julius-Maximilians-Universität Würzburg",,
+"Institut für die Geschichte der deutschen Juden (IGdJ), Deutschland",Deutschland,
+Institut für Dokumentologie und Editorik e.V.,,
+Berlin-Brandenburgische Akademie der Wissenschaften,,Berlin
+Universität zu Köln/CCeH,,Köln
+"Institut für Europäische Geschichte, Deutschland",Deutschland,
+"Institut für Germanistik, AAU Klagenfurt",,
+"Institut für Literaturwissenschaft, Universität Stuttgart, Deutschland",Deutschland,
+"Institut für Literaturwissenschaft, Universität Stuttgart",,
+"Institut für Literaturwissenschaft, Universtität Stuttgart, Deutschland",Deutschland,
+"Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart, Deutschland",Deutschland,
+"Institut für Maschinelle Sprachverarbeitung, Universität Stuttgart",,
+"Institut Josef Sefan, Slowenien",,
+"Institute for Bulgarian Language, Bulgarien",,
+"Instituut voor Nederlandse Lexicologie, Niederlande",Niederlande,
+"Akademie der Wissenschaften und der Literatur Mainz, Deutschland",Deutschland,Mainz
+"Technische Universität Darmstadt, Deutschland",Deutschland,
+"Akademie der Wissenschaften und der Literatur Mainz, Deutschland",Deutschland,Mainz
+"K Dictionaries Ltd., Israel",Israel,
+Open Knowledge Forum Österreich,Österreich,
+"Kobenhavns Universitet, Dänemark",,
+"Lehrstuhl für Digital Humanities, Universität Passau, Deutschland",Deutschland,Passau
+"Lehrstuhl für Informatik mit Schwerpunkt Digital Libraries and Web Information Systems, Universität Passau, Deutschland",Deutschland,Passau
+"Lehrstuhl für Slavische Literaturen und Kulturen, Universität Passau, Deutschland",Deutschland,Passau
+Leibniz-Institut für Ost- und Südosteuropaforschung (IOS),,
+"Leiterin des Rats für Informationsinfrastrukturen (RfII), Geschäftsstelle Göttingen",,
+"Lexical Computing CZ s.r.o.,Tschechien",,
+"L'Université Paris Descartes, Frankreich",Frankreich,Paris
+"Magyar Tudományos Akadémia,Ungarn",,
+"Max-Planck-Institut für europäische Rechtsgeschichte, Frankfurt am Main",,Frankfurt
+"Max-Planck-Institut für Informatik, Saarbrücken, Deutschland",Deutschland,Saarbrücken
+Max-Planck-Institut für Kunstgeschichte Rom,,Rom
+"Medienzentrum/TU Dresden, Deutschland",Deutschland,
+Mittelbayerische Zeitung Regensburg,,
+"National Research University Higher School of Economics, Moskau, Russland",Russland,Moskau
+"National Research University Higher School of Economics, Russland",Russland,
+"National Universtiy of Ireland, Galway Irland",Irland,
+"Neue Universität Lissabon, Portugal",Portugal,
+"Niklas Luhmann-Archiv, Fakultät für Soziologie, Universität Bielefeld",,
+"OEAW Österreichische Akademie der Wissenschaften, Österreich",Österreich,
+Otto-Friedrich-Universität Bamberg,,
+Real Academia Española; Spanien,Spanien,
+"Rheinische Friedrich-Wilhelms-Universtität Bonn, Deutschland",Deutschland,Bonn
+"La Trobe University Melbourne, Australien",Australien,
+"Robert-Musil-Institut, AAU Klagenfurt",,
+"RUB Bochum, Deutschland",Deutschland,Bochum
+"Ruprecht-Karls-Universität Heidelberg, Deutschland",Deutschland,
+"Sächsische Akademie der Wissenschaften zu Leipzig, Projekt Bach-Repertorium",,Leipzig
+"Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden (SLUB), Deutschland",Deutschland,
+Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden,,
+"Servicezentrum eSciences, Universität Trier, Deutschland",Deutschland,Trier
+Staats- und Universtitätsbibliothek Göttingen,,
+"Staatsbibliothek zu Berlin Preußischer Kulturbesitz, Deutschland",Deutschland,Berlin
+"Stellvertretende Vorsitzende der AG Datenzentren des DHd, Fachbereich Informationswissenschaften, Fachhochschule Potsdam, Deutschland",Deutschland,
+"SUB Göttingen, Deutschland",Deutschland,
+"Technische Universität Berlin, Deutschland",Deutschland,Berlin
+"Akademie der Wissenschaften und der Literatur Mainz, Deutschland",Deutschland,Mainz
+Technische Universität Dortmund,,
+"Technische Universität Dresden, Institut für Philosophie",,
+Technische Universität Hamburg,,Hamburg
+Trier Center for Digital Humanities (TCDH),,Trier
+Universität Trier,,Trier
+"UNED, Spanien",Spanien,
+"Universidade Nova de Lisboa, Portugal",Portugal,
+"Università degli Studi di Roma La Spienza, Italien",Italien,Roma
+"Universität Antwerpen, Belgien",Belgien,
+"Universität Bamberg, Deutschland",Deutschland,
+"Universität Bern, Historisches Institut",,Bern
+"Universität zu Köln, Cologne Center for eHumanities",,Köln
+"Universität Cambridge, Vereinigtes Königreich",Vereinigtes Königreich,Cambridge
+"Universität des Saarlandes, Deutschland",Deutschland,
+Universität des Saarlandes,,
+"Universität Kassel, Deutschland",Deutschland,Kassel
+"Universität Leipzig\Historisches Seminar, Deutschland",Deutschland,Leipzig
+Universität Regensburg,,
+Universität Rostock CITLab,,
+"Universität zu Köln, Cologne Center for eHumanities",,Köln
+Universitätsbibliothek Heidelberg,,
+Universiteit Antwerpen,,
+"University of Amsterdam, Niederlande",Niederlande,Amsterdam
+"University of Basel, Switzerland",Schweiz,Basel
+"University of Cambridge, Vereinigtes Königreich",Vereinigtes Königreich,Cambridge
+"University of Passau, Deutschland",Deutschland,Passau
+"University of Sheffield, UK",,Sheffield
+"University of Verona, Italy",,Italy
+"Vienna University of Technology, Computer Vision Lab",,
+"Wirtschaftsuniversität Wien, Österreich",Österreich,Wien
+"WWU Münster, Germany",Deutschland,
+"ELDA, France",Frankreich,
+"ZIM-ACDH, Universität Graz, Österreich",Österreich,Graz
+"Zürcher Hochschule der Künste, Schweiz",Schweiz,
+"ACDH-OEAW Austrian Centre for Digital Humanities, Österreichische Akademie der Wissenschaften, Österreich",Österreich,
+"Akademie der Wissenschaften und der Literatur, Deutschland",Deutschland,
+"Akademie der Wissenschaften und Literatur Mainz, Deutschland",Deutschland,Mainz
+"Albertina, Wien",,Wien
+"Altorientalische Philologie, Institut für Altertumswissenschaften, Johannes Gutenberg-Universität Mainz",,Mainz
+Archiv des Bistums Passau,,Passau
+"KU Leuven, Belgien",Belgien,
+"Brandenburgische Technische Universität Cottbus-Senftenberg, Deutschland",Deutschland,
+"Centre Marc Bloch, Deutschland",Deutschland,
+"Cologne Center for eHumanities, Universität zu Köln, Deutschland",Deutschland,Köln
+creative commons Austria,Österreich,
+"Deutsches Dokumentationszentrum für Kunstgeschichte - Bildarchiv Foto Marburg, Deutschland",Deutschland,
+"Deutsches Museum, München",,
+"Digital Humanities Instituts (DHI) der École polytechnique fédérale de Lausanne, Schweiz",Schweiz,Lausanne
+e-Infrastructures Austria,Österreich,
+"Fachbereich Architektur, Digitales Gestalten / TU Darmstadt, Deutschland",Deutschland,
+"FIZ Karlsruhe - Leibniz-Institut für Informationsinfrastruktur, Deutschland",Deutschland,
+Forschungsverbund Weimar Marbach Wolfenbüttel,,
+Freier Historiker,,
+für MUSICES,,
+"Gesellschaft für wissenschaftliche Datenverarbeitung mbH, Göttingen",,
+Goettingen Center for Digital Humanities,,
+"Herder Institut Marburg, Deutschland",Deutschland,
+"Herder-Institut für historische Ostmitteleuropaforschung – Institut der Leibniz-Gemeinschaft, Deutschland",Deutschland,
+"Hochschule für Technik, Wirtschaft und Kultur (HTWK) Leipzig, Deutschland",Deutschland,Leipzig
+"IDS Mannheim, Deutschland",Deutschland,Mannheim
+"infoclio.ch, Schweiz",Schweiz,
+Inria Paris,,Paris
+"Institut für Architektur von Anwendungssystemen, Universität Stuttgart, Deutschland",Deutschland,
+"Jena University Language & Information Engineering (JULIE) Lab, Friedrich-Schiller-Universität Jena, Jena, Deutschland",Deutschland,Jena
+"Julius-Maximilians Universität Würzburg, Deutschland",Deutschland,
+"Justus-Liebig-Universität Gießen, Deutschland",Deutschland,
+"Karl-Franzens-Universität Graz, Österreich",Österreich,Graz
+"Karlsruhe Institute of Technology, Deutschland",Deutschland,
+"Katholische Universität Eichstätt-Ingolstadt, Deutschland",Deutschland,
+Katholische Universität Eichstätt-Ingolstadt,,
+Klassik Stiftung Weimar,,
+"Laboratoire de recherche historique Rhône-Alpes (LARHRA), Frankreich",Frankreich,
+Leibniz-Institut für Europäische Geschichte (IEG),,
+Leibniz-Institut für europäische Geschichte Mainz,,Mainz
+"Ludwig Maximilians Universität München, Deutschland",Deutschland,
+"Mainzer Zentrum für Digitalität in den Geistes- und Kulturwissenschaften (mainzed), Deutschland",Deutschland,Mainz
+"Max Planck-Institut für empirische Ästhetik, Deutschland",Deutschland,
+"Max-Planck-Institut für Informatik, Saarbrücken",,Saarbrücken
+"Max-Planck-Institut für Wissenschaftsgeschichte, Berlin",,Berlin
+"Max-Planck-Institut für Wissenschaftsgeschichte, Deutschland",Deutschland,
+"Medienzentrum / TU Dresden, Deutschland",Deutschland,
+"Museum für Kunst und Gewerbe, Hamburg",,Hamburg
+"Niedersächsische Staat- und Universitätsbibliothek Göttingen, Deutschland",Deutschland,
+Niersächsische Staats- und Universitätsbibliothek Göttingen,,
+NRW Akademie der Wissenschaften und der Künste,,
+"Österreichische Akademie der Wissenschaften – Austrian Centre for Digital Humanities, Wien, Österreich",Österreich,Wien
+"Österreichische Akademie der Wissenschaften, Wien",Österreich,Wien
+"Regesta Imperii, Universität Gießen, Akademie der Wissenschaften Mainz, Deutschland",Deutschland,Mainz
+"Schweizerische Nationalbibliothek, Schweiz",Schweiz,
+"Staats- und Universitätsbibliothek Göttingen, Deutschland",Deutschland,
+Staatsarchiv des Kantons Zürich,,
+"Steinheim-Institut für deutsch-jüdische Geschichte Essen, Deutschland",Deutschland,
+Technische Universität Dresden,,
+"Technische Universität Wien, Faculty of Informatics, Institute of Computer Aided Automation, Computer Vision Lab",,Wien
+"Ubiquitous Knowledge Processing Lab, Department of Computer Science, Technische Universität Darmstadt",,
+"Umea university, Schweden",,Umea
+"Union der deutschen Akademien der Wissenschaften, Deutschland",Deutschland,
+"Universidad de Salamanca, Spanien",Spanien,
+"Università della Svizzera italiana, Schweiz",Schweiz,
+"Universität Bern, Forschungsstelle Jeremias Gotthelf, Schweiz",Schweiz,Bern
+"Universität Jena, Deutschland",Deutschland,Jena
+"Universität Mannheim, Deutschland",Deutschland,Mannheim
+"Reichsuniversität Groningen, Niederlande",Niederlande,
+Universität Passau,,Passau
+"Universität Salzburg, Österreich",Österreich,Salzburg
+Université de Lausanne,,Lausanne
+University of Sheffield,,Sheffield
+"Verein Opendata.ch, Schweiz",Schweiz,
+"ZIM, Universität Graz, Österreich",Österreich,Graz
+"ZIM-ACDH Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Karl-Franzens-Universität Graz, Österreich",Österreich,Graz
+"ACDH-OEAW Austrian Center for Digital Humanities, Österreich",Österreich,
+"Albert-Ludwigs-Universität Freiburg, Deutschland",Deutschland,Freiburg
+"Angewandte Medienwissenschaft (Digitale Medien), Universität Bayreuth",,
+bitGilde IT Solutions UG,,
+"Bayerisches Archiv für Sprachsignale, Institut für Phonetik und Sprachverarbeitung, Deutschland",Deutschland,
+"BBAW Berlin, Deutschland",Deutschland,Berlin
+"Beijing Institute of Technology, China, Volksrepublik",China,Beijing
+"Berlin-Brandenburg Akademie der Wissenschaften, Deutschland",Deutschland,Berlin
+Berlin-Brandenburger Akademie der Wissenschaften,,Berlin
+"Berlin-Brandenburgische Akademie der Wissenschaften - Berlin, Deutschland",Deutschland,Berlin
+"Bibliotheca Hertziana - Max-Planck-Institut für Kunstgeschichte, Rom",,Rom
+"Campus Condorcet, Frankreich",Frankreich,
+"Carl-Maria-von-Weber-Gesamtausgabe, Detmold, Deutschland",Deutschland,
+"Centrum für Informations- und Sprachverarbeitung - Ludwig-Maximilians-Universität München, Deutschland",Deutschland,
+"Centrum für Informations- und Sprachverarbeitung (CIS), LMU, München",,
+"CLARIN-D, Universität Tübingen",,
+"CVCE Luxembourg, Luxemburg",,
+DAASI International,,
+"Department für Wissens- und Kommunikationsmanagement, Donau-Universität Krems, Österreich",Österreich,
+"Deutsche Nationalbibliothek, Papierhistorische Sammlungen, Leipzig, Deutschland",Deutschland,Leipzig
+"DH Lab, Schweiz",Schweiz,
+"DIPF, Deutschland",Deutschland,
+"Electrical Engineering and Computer Science, Universitaet von Michigan, USA",,
+Forschungsverbund MWW,,
+Friedrich--Schiller-Universität Jena,,Jena
+"FU Berlin, Deutschland",Deutschland,Berlin
+"Geisteswissenschaftliche Infrastruktur für Nachhaltigkeit (gwin), Universität Hamburg",,Hamburg
+"Georg Eckert Institut für internationale Schulbuchforschung, Deutschland",Deutschland,
+Georg-Eckert-Institut Braunschweig,,
+"Georg-Eckert-Institut, Leibniz-Institut für internationale Schulbuchforschung, Deutschland",Deutschland,
+Germanisches Nationalmuseum Nürnberg,,
+Gesellschaft für wissenschaftliche Datenverarbeitung mgH Göttingen; DE,,
+"HAB, Deutschland",Deutschland,
+"Helmut-Schmidt-Universität, Universität der Bundeswehr, Hamburg",,Hamburg
+Herder-Institut für historische Ostmitteleuropaforschung – Institut der Leibniz-Gemeinschaft,,
+"Herder-Institut für historische Ostmitteleuropaforschung, Marburg",,
+Herder-Institut Marburg,,
+"Hochschule Reutlingen, Deutschland",Deutschland,
+"Humanities Data Center, Staats- und Universitätsbibliothek Göttingen",,
+"Berlin-Brandenburgische Akademie der Wissenschaften, Deutschland",Deutschland,Berlin
+"Humboldt-Universität zu Berlin, Institut für Bibliotheks- und Informationswissenschaft, Deutschland",Deutschland,Berlin
+"IANUS, Deutsches Archäologisches Institut",,
+"Ibero-Amerikanisches Institut, Deutschland",Deutschland,
+"IDS-Mannnheim, Deutschland",Deutschland,
+"Institut für Deutsche Sprache Mannheim, Deutschland",Deutschland,Mannheim
+"Institut für deutsche Sprache, Mannheim, Deutschland",Deutschland,Mannheim
+"Institut für Informationswissenschaft & Sprachtechnologie, Universität Hildesheim",,
+"Institut für Ost- und Südosteuropaforschung, Regensburg",,
+"Institut für Philosophie, TU Darmstadt",,
+Institut für Raumdarstellung,,
+"Institut für Sprach- und Literaturwissenschaft, TU Darmstadt",,
+Institutio Nationale de Fisica Nucleare; IT,,
+"Jena University Language & Information Engineering (JULIE) Lab, Friedrich-Schiller-Universität Jena, Deutschland",Deutschland,Jena
+"Johannes Gutenberg Universität Mainz, Deutschland",Deutschland,Mainz
+"Karl-Franzens Universität Graz, Österreich",Österreich,Graz
+"Katholieke Universiteit Leuven, Literary Studies Research Unit, Belgien",Belgien,
+"LAB1100, Niederlande",Niederlande,
+"Lehrstuhl für Neuere Geschichte, Geschichtswissenschaften, Heinrich-Heine-Universität Düsseldorf",,
+"Lehrstuhl HCI/Universität Würzburg, Deutschland",Deutschland,
+"Leibniz-Institut für Länderkunde, Deutschland",Deutschland,
+"Leipzig University, Deutschland",Deutschland,Leipzig
+"Literature, Sciences and the Arts, Universitaet von Michigan, USA",,
+Ludwig-Maximilians-Universität München,,
+"Max-Planck-Institut für Gemeinschaftsgüter, Deutschland",Deutschland,
+"Max-Planck-Institut für Informatik Saarbrücken, Deutschland",Deutschland,Saarbrücken
+"Max-Planck-Institut für Wissenschaftsgeschichte, Berlin, Deutschland",Deutschland,Berlin
+Max-Planck-Institut für Wissenschaftsgeschichte,,
+Max-Planck-Institut zur Erforschung multireligiöser und multiethnischer Gesellschaften,,
+Max-Planck-Instiut für Wissenschaftsgeschichte,,
+"MLU Halle-Wittenberg, Deutschland",Deutschland,Halle
+"Mozarteum, Mozart-Institut, Digitale Mozart-Edition, Salzburg, Oesterreich",,Salzburg
+"MPI für Wissenschaftsgeschichte, Deutschland",Deutschland,
+MWW-Forschungsverbund / Herzog August Bibliothek Wolfenbüttel,,
+"National Research University - Higher School of Economics, Russland",Russland,
+"ÖAW, Österreich",Österreich,
+"Österreichische Akademie der Wissenschaften, ACDH",Österreich,
+"Österreichische Akademie der Wissenschaften, Austrian Centre for Digital Humanities; AT",Österreich,
+"Berlin-Branbenburgische Akademie der Wissenschaften, Deutschland",Deutschland,Berlin
+"pagina GmbH, Deutschland",Deutschland,
+"Privatier, Nuernberg (common science)",,
+"Regesta Imperii Gießen/Mainz, Deutschland",Deutschland,Mainz
+"Ruprecht-Karls-Universität Heidelberg, Heidelberg Collaboratory for Image Processing (HCI)",,
+"Saechsische Landesbibliothek - Staats- und Universitaetsbibliothek Dresden, Musiksammlung, Dresden, Deutschland",Deutschland,
+"Salomon Ludwig Steinheim-Institut für deutsch-jüdische Geschichte Essen, Deutschland",Deutschland,
+Salomon Ludwig Steinheim-Institut für deutsch-jüdische Geschichte,,
+"School of Natural Resources, Universitaet von Michigan, USA",,
+Schweizer Bundesarchiv,Schweiz,
+"Semedia, Università Politecnica delle Marche, Ancona, Italien",Italien,Ancona
+"SICP – Software Innovation Campus Paderborn, Universität Paderborn, Deutschland",Deutschland,
+"Software Quality Lab, Universität Paderborn",,
+"Staatliche Universität Kaohisung, Taiwan",Taiwan,
+"Staatsbibliothek zu Berlin, KoFIM-Projekt, Berlin, Deutschland",Deutschland,Berlin
+"TCDH, Deutschland",Deutschland,
+Technische Informationsbibliothek Hannover,,
+Technische Universität Wien,,Wien
+"TU Dortmund, Deutschland",Deutschland,
+"TU Kaiserslautern, Deutschland",Deutschland,
+"Ubiquitous Knowledge Processing Lab, Deutsches Institut für Internationale Pädagogische Forschung / Technische Universität Darmstadt",,
+"UKP Lab, TU Darmstadt",,
+"Universitaet Erlangen-Nuernberg, Institut fuer Informatik, Erlangen, Deutschland",Deutschland,
+"Universitaet Innsbruck, Institut fuer Germanistik, Innsbruck, Oesterreich",,
+"Universitaet Leipzig, Rechenzentrum, Leipzig, Deutschland",Deutschland,Leipzig
+"Universität Augsburg, Deutschland",Deutschland,
+"Universität Bergen, Philosophisches Institut, Norwegen",Norwegen,Bergen
+Universität Duisburg/Essen,,
+Universität Duisburg-Essen,,
+"Universität Düsseldorf, Deutschland",Deutschland,
+"Universität Erlangen-Nürnberg, Deutschland",Deutschland,
+Universität Frankfurt,,Frankfurt
+Universität Gießen,,
+"Universität Göttingen, Seminar für Deutsche Philologie",,
+"Universität Konstantz, Deutschland",Deutschland,
+"Universität Konstanz, Deutschland",Deutschland,Konstanz
+"Universität Leipzig, Deutschland, Alte Geschichte",Deutschland,Leipzig
+"Universität Leipzig, Deutschland, Hochschuldidaktisches Zentrum Sachsen, Lehrpraxis im Transfer",Deutschland,Leipzig
+"Universität Rostock, Deutschland",Deutschland,
+"Universität Stuttgard, Deutschland",Deutschland,
+"Universität Trier (Trier Center for Digital Humanities), Deutschland",Deutschland,Trier
+"Universität Trier, Trier Center for Digital Humanities",,Trier
+"Universität Tübingen, Deutschland/ Universität Stuttgart, Deutschland",Deutschland,
+"Universität Tübingen, Deutschland",Deutschland,
+Universität Tübingen,,
+"Universität Wien, Institut für Afrikawissenschaften; AT",,Wien
+"Universität Wien, Institut für Germanistik, Österreich",Österreich,Wien
+"Universität Würzburg, Schweiz",Schweiz,
+"Universität zu Köln, Kunsthistorisches Institut",,Köln
+"Universitätsbibliothek Salzburg, Österreich",Österreich,Salzburg
+"Uppsala Universitet, Department of Musicology, Dueben Collection Database Uppsala, Schweden",,
+"Zentrum für Musik- und Filminformatik, Hochschule Ostwestfalen-Lippe",,
+"Zentrum für Zeithistorische Forschung, Deutschland",Deutschland,
+"ZIM Uni Graz, Österreich",Österreich,Graz
+"Musikwissenschaftliches Seminar Detmold / Paderborn, Deutschland",Deutschland,
+,,
+AG Datenzentren im Verband DHd,,
+Akademie der Wissenschaften und der Literatur Mainz Arbeitsstelle “Mittelhochdeutsches Wörterbuch” an der Universität Trier,,Mainz
+Akademie der Wissenschaften zu Göttingen,,
+Austrian Center for Digital Humanities (ACDH) der Österreichischen Akademie derWissenschaften,Österreich,
+BBAW,,
+"Carl-Maria-von-Weber-Gesamtausgabe, Universität Paderborn",,
+"CEGESOMA, Belgien",Belgien,
+"Centrum für Informations- und Sprachverarbeitung, in Zusammenarbeit mit dem Lehrstuhl II der Fakultät für Philosophie, Wissenschaftstheorie und Religionswissenschaft, LMU München",,
+"Centrum für Informations-und Sprachverarbeitung (CIS), LMU, München",,
+"Centrum für Religionswissenschaftliche Studien, Bochum, Deutschland",Deutschland,Bochum
+DAASI International GmbH,,
+"DARIAH-DE, Deutschland",Deutschland,
+"datalino. Forster, Fabian, Krumnow PartG",,
+"Department Psychologie, Universität Potsdam",,
+"DFKI GmbH, Saarbrücken, Deutschland",Deutschland,Saarbrücken
+"Exzellenzcluster “Asien and Europa in a Global Context”, Universität Heidelberg",,
+Fraunhofer IDMT Ilmenau-Erfurt,,
+Freies Deutsches Hochstift/ Frankfurter Goethe-Haus,,Frankfurt
+"Friedrich-Wilhelms-Universität Bonn, Institut f. Archäologie und Kulturanthropologie",,Bonn
+"Georg-Eckert-Institut Leibniz-Institut für internationale Schulbuchforschung, Braunschweig",,
+Goethe Universität Frankfurt am Main,,Frankfurt
+"Goethe University, Frankfurt, Germany",Deutschland,Frankfurt
+Göttingen Centre for Digital Humanitie,,
+"Göttingen Centre for Digital Humanities, Universität Göttingen, Deutschland",Deutschland,
+"HAB Wolfenbüttel / MWW-Forschungsverbund, Deutschland",Deutschland,
+"Heinz Nixdorf Institut, Universität Paderborn",,
+Hochschule für Technik und Wirtschaft Berlin,,Berlin
+"Institut für Anglistik und Amerikanistik, Universität Paderborn",,
+"Institut für Architektur von Anwendungssystemen, Universität Stuttgart",,
+"Institut für Computerlinguistik, Universität Heidelberg",,
+"Institut für Deutsche Philologie, Lehrstuhl für Computerphilologie, Universität Würzburg",,
+"Institut für Deutsche Philologie, Philosophische Fakultät I, Universität Würzburg",,
+"Institut für Empirische Sprachwissenschaft, Goethe-Universität Frankfurt",,Frankfurt
+"Institut für Germanistik, Fakultät für Sprache, Literatur und Medien, Universität Hamburg",,Hamburg
+"Institut für Germanistik, Karl-Franzens-Universität Graz",,Graz
+"Institut für Germanistik, Universität Leipzig",,Leipzig
+"Institut für Germanistische Sprachwissenschaft,Friedrich Schiller-Universität Jena",,Jena
+"Institut für Geschichte, Universität Wien",,Wien
+"FH Campus Wien, Österreich",Österreich,Wien
+"Institut für Informatik, Human-Centered Computing, Freie Universität Berlin",,Berlin
+"Institut für Informatik, Universität Heidelberg, Deutschland",Deutschland,
+"Institut für Informatik, Universität Paderborn",,
+"Institut für Kulturwissenschaft, Humboldt-Universität zu Berlin",,Berlin
+"Institut für Visualisierung und Interaktive Systeme, Universität Stuttgart",,
+"Institut für Zeitgeschichte, Deutschland",Deutschland,
+"Institute for German Studies, University of Hamburg",,Hamburg
+"Institute of Computer Science, Heidelberg University",,
+International Audio Laboratories Erlangen,,
+Justus-Liebig Universität Gießen,,
+Kompetenzzentrum für elektronische Erschließungs- und Publikationsverfahren in den Geisteswissenschaften,,
+"Leibniz Universität Hannover, Deutschland",Deutschland,
+"Leibniz-Institut für Europäische Geschichte, Deutschland",Deutschland,
+Ludwig-Maximilans-Universität München,,
+"Max Planck-Institut für Wissenschaftsgeschichte, Berlin",,Berlin
+"Max-Planck-Institut fuer Wissenschaftsgeschichte, Forschungsprogramm Geschichte der Max-Planck-Gesellschaft",,
+"Max-Planck-Institut für Wissenschaftsgeschichte, Berlin-Brandenburgische Akademie der Wissenschaften",,Berlin
+Max-Planck-Institutzur Erforschung multireligiöser und multiethnischer Gesellschaften,,
+"Medienzentrum, TU Dresden",,
+"Musikwissenschaftliches Institut, Universität zu Köln",,Köln
+Musikwissenschaftliches Seminar Detmold/Paderborn,,
+"National Research University - Higher School of Economics, Russian Federation",Russland,
+Naturhistorisches Museum Wien,,Wien
+Österreichische Akademie der Wissenschaften / Austrian Centre for Digital Humanities,Österreich,
+"Österreichische Akademie der Wissenschaften, Österreich, Institut für Corpus Linguistik und Texttechnologie",Österreich,
+"Österreichische Akademie der Wissenschaften, Wien, Österreich; Austrian Center for Digital Humanities, Wien, Österreich",Österreich,Wien
+"Österreichische Nationabibliothek, Österreich",Österreich,
+"Österreichische Nationalbibliothek, Wien",Österreich,Wien
+"Österreichisches Filmmuseum, Österreich",Österreich,
+"Richard Strauss: Werke. Kritische Ausgabe, Universität München",,
+"Salomon-Ludwig-Steinheim-Institut für deutsch-jüdische Geschichte, Essen",,
+"Schweizerische Rechtsquellenstiftung, Schweiz",Schweiz,
+"Sonic Linguistics, Griechenland",Griechenland,
+Staats- und Universitätsbibliothek Göttingen,,
+"Steinheim-Institut für deutsch-jüdische Geschichte, Essen",,
+SUB Göttingen,,
+"Technische Universität Dortmund, Deutschland",Deutschland,
+"Trier Center for Digital Humanities, Deutschland",Deutschland,Trier
+"Trinity College Dublin, Irland",Irland,
+Trinity College Dublin,,
+Uni Würzburg,,
+"Univeresität Paderborn, Deutschland",Deutschland,
+"Universität Erfurt, Max-Weber-Kolleg, Deutschland",Deutschland,
+Universität Hildesheim,,
+"Universität Köln, Historisch-Kulturwissenschaftliche Informationsverarbeitung",,Köln
+Universität Lüneburg,,
+Universität Magdeburg,,
+Universitat Politècnica de València (DSIC),,València
+Universität Salamanca,,
+Universität Siegen,,
+Wittgenstein Archives at the University of Bergen (WAB),,Bergen
+"WU Wien, Österreich",Österreich,Wien
+Zentral- und Landesbibliothek Berlin,,Berlin
+Zentrum für Soziale Innovation,,
+"Akademie der Wisschenschaften zu Göttingen, Germany",Deutschland,
+"Akademie der Wissenschaften und der Literatur Mainz, Germany",Deutschland,Mainz
+"Akademie der Wissenschaften zu Göttingen, Germany",Deutschland,
+Göttingen Centre for Digital Humanities,,
+"Albertina, Austria",Österreich,
+"Albert-Ludwigs-Universität Freiburg, Germany",Deutschland,Freiburg
+Arbeitsgemeinschaft Geschichte und EDV e.V,,
+"Interdisciplinary Center of E-Humanities in History and Social Sciences, Institut für Alte Geschichte und Altertumskunde – Karl Franzens-Universität Graz",,Graz
+Arbeitsgemeinschaft Geschichte und EDV e.V.,,
+"FB III - Alte Geschichte, Universität Trier",,Trier
+Interdisciplinary Center of E-Humanities in History and Social Sciences,,
+"Historisches Seminar - Lehrstuhl Alte Geschichte, Universität Leipzig",,Leipzig
+"Bayerische Staatsbibliothek München, Germany",Deutschland,
+"Berlin-Brandenburgische Akademie der Wissenschaften (BBAW), Zentrum Sprache, Deutschland",Deutschland,Berlin
+"Berlin-Brandenburgische Akademie der Wissenschaften, Berlin, Deutschland",Deutschland,Berlin
+Bibliotheca Hertziana - Max-Planck-Institut für Kunstgeschichte,,
+"Bildarchiv Foto Marburg, Germany",Deutschland,
+"Brandenburgische Technische Universität Cottbus, Germany",Deutschland,
+"Bundesministerium der Justiz, Berlin, Germany",Deutschland,Berlin
+"Center for Digital Humanities / Uni-Trier, Germany",Deutschland,Trier
+"Cologne Center for eHumanities (CCeH), Germany",Deutschland,
+"Cologne Center for eHumanities, Universität zu Köln",,Köln
+"Computer Vision Group, Heidelberg Collaboratory for Image Processing (HCI), Universität Heidelberg, (AKDK)",,
+"CVCE, Luxembourg",,
+"DAASI International GmbH, Tübingen",,
+Delft University of Technology,,
+"Deutsches Archäologisches Institut, Germany",Deutschland,
+Deutsches Forschungszentrum für Künstliche Intelligenz,,
+"Dipartimento di Elettronica, Informazione e Bioingegneria",,
+"DLA Marbach, Germany",Deutschland,
+Engineering Ingegneria Informatica S.p.a.,,
+European Institute for Participatory Media,,
+"Exzellenzcluster „Asien und Europa"", Universität Heidelberg, Germany",Deutschland,
+"Fachbereich III - Neuere und Neueste Geschichte, Universität Trier, Interdisciplinary Center of E-Humanities in History and Social Sciences",,Trier
+"Forschungszentrum L3S / Leibniz Universität Hannover, Deutschland",Deutschland,
+"Fraunhofer Institut für digitale Medientechnologie Ilmenau, Interdisciplinary Center of E-Humanities in History and Social Sciences",,
+"Friedrich-Alexander Universität Erlangen-Nürnberg, Germany",Deutschland,
+"Georg-August-Universität Göttingen, Germany, Theodor Fontane-Arbeitsstelle, Seminar für Deutsche Philologie",Deutschland,
+"Georg-Eckert-Institut – Leibniz-Institut für internationale Schulbuchforschung, Germany",Deutschland,
+"Heidelberg University, Germany",Deutschland,
+Helmut Schmidt Universität Hamburg,,Hamburg
+Helmut-Schmidt-Universität / Universität der Bundeswehr,,
+Herder-Institut für historische Ostmitteleuropaforschung,,
+"Herder-Institut Marburg, Germany",Deutschland,
+"Herzog August Bibliothek Wolfenbüttel, Germany",Deutschland,
+"Historische Kommission bei der Bayerischen Akademie der Wissenschaften, Germany",Deutschland,
+Historisches Lexikon der Schweiz,Schweiz,
+"Historisches Seminar - Arbeitsbereich Alte Geschichte, Universität Hamburg, Interdisciplinary Center of E-Humanities in History and Social Sciences",,Hamburg
+Historisch-Kulturwissenschaftliche-Informationsverarbeitung,,
+"Hochschule Darmstadt, Germany",Deutschland,
+"Hochschule für Gestaltung Karlsruhe, Germany",Deutschland,
+"Hochschule für Technik und Wirtschaft Dresden, Germany",Deutschland,
+Homeria Open Solutions S.L.,,
+"i3mainz Fachhochschule Mainz, Germany",Deutschland,Mainz
+"IFK Internationales Forschungszentrum Kulturwissenschaften an der Kunstuniversität Linz, Austria",Österreich,
+"IMA/ZLW der RWTH Aachen University, Germany",Deutschland,
+"Institut für Architektur von Anwendungssystemen (IAAS), Universität Stuttgart, Deutschland",Deutschland,
+"Institut für Deutsche Sprache, Germany",Deutschland,
+"Institut für Deutsche Sprache, Mannheim",,Mannheim
+"Institut für Europäische Kunstgeschichte, Universität Heidelberg, Germany",Deutschland,
+"Institut für Germanistik und Zentrum für Medien und Interaktivität der JLU Gießen, Deutschland",Deutschland,
+"Institut für Kultur und Ästhetik digitaler Medien, Leuphana Universität Lüneburg",,
+Institut für Medienkultur und Theater,,
+"Institut für Nachrichtentechnik, TU Braunschweig, Germany",Deutschland,
+"Institut für Neuzeit- und Zeitgeschichtsforschung, Österreichische Akademie der Wissenschaften",Österreich,
+Institut für Philosophie der Goethe-Universität Frankfurt,,Frankfurt
+Institut für Sächsische Geschichte und Volkskunde,,
+"Johannes-Gutenberg-Universität, Germany",Deutschland,
+"Justus-Liebig-Universität Gießen, Germany",Deutschland,
+"Kompetenzzentrum für elektronische Erschließungs- und Publikationsverfahren in den Geisteswissenschaften, Universität Trier",,Trier
+"Landesarchiv Baden-Württemberg, Germany",Deutschland,
+Lehrstuhl für Computerphilologie,,
+"Lehrstuhl für Informationswissenschaft, Universität Regensburg",,
+"Leibniz Universität Hannover, Germany",Deutschland,
+"Ludwig Maximilians Universität München, Germany",Deutschland,
+"Ludwig-Maximilians-Universität, Germany",Deutschland,
+"Martin-Luther-Universität Halle-Wittenberg, Germany",Deutschland,Halle
+"Max Planck Institut für Evolutionäre Anthropologie, Germany",Deutschland,
+"Max Weber Stiftung, de.hypotheses.org",,
+Max-Planck Institut für Psycholinguistik,,
+Max-Planck-Institut für europäische Rechtsgeschichte,,
+"Max-Planck-Institut zur Erforschung multireligiöser und multiethnischer Gesellschaften, Germany",Deutschland,
+"Max-Weber-Kolleg für kultur- und sozialwissenschaftliche Studien der Universität Erfurt, Germany, Arbeitsgemeinschaft Geschichte und EDV e.V., Interdisciplinary Center of E-Humanities in History and Social Sciences",Deutschland,
+"MLU Halle-Wittenberg, Germany",Deutschland,Halle
+"MPI für Wissenschaftsgeschichte und Berlin-Brandenburgische Akademie der Wissenschaften, Germany",Deutschland,Berlin
+"Musikwissenschaftliches Seminar Detmold / Paderborn, Germany",Deutschland,
+"Niedersächsiche Staats- und Universitätsbibliothek Göttingen, Germany",Deutschland,
+"Niedersächsische Staats- und Universitätsbibliothek Göttingen, Germany",Deutschland,
+"Otto-von Guericke-Universität Magdeburg, Germany",Deutschland,
+"pagina GmbH, Germany",Deutschland,
+"Pina Bausch Stiftung, Wuppertal",,
+Public Research Centre Henri Tudor,,
+"Rheinische Friedrich-Wilhelms-Universität Bonn, Germany",Deutschland,Bonn
+"Soziologisches Forschungsinstitut Göttingen, Deutschland",Deutschland,
+Soziologisches Forschungsinstitut Göttingen,,
+"Universität Hamburg, Fachbereich Sozialökonomie, Deutschland",Deutschland,Hamburg
+"Steinheim-Institut für deutsch-jüdische Geschichte, Germany",Deutschland,
+"Stiftung Archiv der deutschen Frauenbewegung, Kassel, Deutschland",Deutschland,Kassel
+"Stiftung Mozarteum Salzburg, Austria",Österreich,Salzburg
+"Technische Universität Darmstadt, Universität Trier, Germany",Deutschland,Trier
+"Technische Universität Dortmund, Fakultät Informatik, Deutschland",Deutschland,
+"Technische Universität Dortmund, Institut für deutsche Sprache und Literatur, Deutschland",Deutschland,
+"Technische Universität Dresden, Germany",Deutschland,
+Thüringer Buchlöwe - Schreibwettbewerb der Literarischen Gesellschaft Thüringen,,
+"Trier Center for Digital Humanities, Germany",Deutschland,Trier
+Universitaet Potsdam; Germany,Deutschland,
+"Universitaet Tuebingen, Germany",Deutschland,
+"Universität Bergen, Norway",Norwegen,Bergen
+Universität des Saarlands,,
+"Universität Duisburg-Essen, Germany",Deutschland,
+"Universität Erlangen-Nürnberg, Germany",Deutschland,
+"Universität Heidelberg, Germany",Deutschland,
+"Universität Hildesheim, Institut für Informationswissenschaft und Sprachtechnologie",,
+"Universität Konstanz, Germany",Deutschland,Konstanz
+"Universität Passau, Germany",Deutschland,Passau
+"Universität Stuttgart, Institut für Maschinelle Sprachverarbeitung",,
+"Universität Stuttgart, Institut für Sozialwissenschaften",,
+"Universität Trier, Neuere und Neueste Geschichte",,Trier
+"Universität Würzburg, Germany",Deutschland,
+"Universitätsbibliothek Frankfurt am Main, Germany",Deutschland,Frankfurt
+"University of Hamburg, Germany",Deutschland,Hamburg
+Universtiät Bern,,Bern
+"Universität München, Germany",Deutschland,
+"Wittgenstein-Archiv an der Universität Bergen, Norway",Norwegen,Bergen
+"Zentrum für Informationsmodellierung - Austrian Centre for Digital Humanities, Universität Graz, Austria",Österreich,Graz
+"Zentrum für Technologietransfer und Telekommunikation, FH Worms",,
+"Zentrum Technik und Gesellschaft / TU Berlin, Germany",Deutschland,Berlin
+"Ruhr-Universität-Bochum, Deutschland",Deutschland,Bochum

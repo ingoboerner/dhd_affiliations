@@ -6,11 +6,7 @@ Affiliations in DHd Abstracts (2014-2022)
 * run xslt to generate `distinct-values` of these strings
 * looked for multi-part strings, e.g. "Universität Dortmund; Universität Wien" – separators mainly ";", but also " / "; tricky is "," (didn't split here systematically)
 * generated `distinct-values` of the split affiliations; resulted in 978 (vs. originally 1322) strings
-
-use `affiliations_distinct_distinct.xml` to continue
+* in jupyter notebook `parse_enrich_csv.ipynb`: detected country by string-matching, tested NER with nltk (resulted in list of `GPE`, which was cleaned to contain only cities) and spacy (detects mainly `ORG`); generated `affiliations_openrefine.csv` to be cleaned manually in Open Refine
 
 todo:
-* maybe continue in jupyter notebook; should parse and look for country-strings; if contains "Germany/Deutschland", "Österreich/Austria", ... would provide country info for some;
-* run NER and look for LOC (look for cities; maybe with controlled vocabulary); run OpenRefine reconciliation against wikidata on the cities (to get country, if not explicitly mentioned);
-* maybe extract Universities and Academies "Universität + LOC" (maybe)
-* or just refine manually; this would also work in OpenRefine with text filtering
+* just refine manually; this would also work in OpenRefine with text filtering
