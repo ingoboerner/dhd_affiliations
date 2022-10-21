@@ -8,7 +8,9 @@ Affiliations in DHd Abstracts (2014-2022)
 * generated `distinct-values` of the split affiliations; resulted in 978 (vs. originally 1322) strings
 * in jupyter notebook `parse_enrich_csv.ipynb`: detected country by string-matching, tested NER with nltk (resulted in list of `GPE`, which was cleaned to contain only cities) and spacy (detects mainly `ORG`); generated `affiliations_openrefine.csv` to be cleaned manually in Open Refine
 * in Open Refine: added columns `country` + `city`;  partly added normalized values of parent organizations
-* cleaned most frequent "cities" (36/107), stopped at "Düsseldorf"
+* cleaned parent institutions (by city + used clustering functionality of openrefine)
+* reconciled cities + universities agains wikidata
 
 todo:
-g* just refine manually; this would also work in OpenRefine with text filtering
+* continue manual editing in openrefine
+* generate skos vocabulary
